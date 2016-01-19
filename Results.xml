@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www3.epa.gov/storet/download/domain_value_use.xsl"?>
+<WQXDomainValueList xmlns="http://www.exchangenetwork.net/schema/wqx/2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.exchangenetwork.net/schema/wqx/2 http://www.exchangenetwork.net/schema/wqx/2/index.xsd">
+  <WQXElement>
+    <WQXElementName rowCount="29" maxLastChangeDate="2015-12-02T11:44:16-05:00">
+      SampleFraction
+    </WQXElementName>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="10"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Acid Soluble"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="That portion of the analyte which becomes dissolved within the sample following treatment with an appropriate acid."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2006-07-26T10:57:48-04:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="26"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Bed Sediment"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value=""></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2014-09-10T12:00:00-04:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="27"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Bedload"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value=""></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2014-09-10T12:00:00-04:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="19"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Bioavailable"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="The extent to which a substance is / becomes available or absorbed by a specific tissue or organ."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2010-03-05T10:57:48-05:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="15"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Comb Available"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="The Concentration of a analyte or other analyte derivatives in a water which is combined with other derivatives yet is still available to oxidize organic matter."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2012-10-15T10:57:48-04:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="2"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Dissolved"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="That portion of the analyte found in the liquid medium.  Cannot be removed by filtration."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2006-07-26T10:57:48-04:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="22"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Extractable"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="An analyte that can be removed from a mixture using a specific method or technique"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2010-12-20T10:24:41-05:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="6"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Filterable"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="That portion of the analyte which is in or absorbed to material which passes through the filter during sample filtration."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2012-04-30T10:57:48-04:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="28"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Filtered"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="Pertains to constituents in a water sample passed through a filter membrane of specified pore diameter, most commonly 0.45 µm or less for inorganic analytes and 0.7 µm for organic analytes."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2015-12-02T11:44:16-05:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="13"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Fixed"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="That portion of the analyte found in the liquid layer above a precipitate produced from the sample."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2006-07-26T10:57:48-04:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="17"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Free Available"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="The concentration of residual substance present as dissolved gas, and not combined with any substance or in other less readily available form."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2012-10-15T10:57:48-04:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="21"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Inorganic"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="Inorganic content of sample"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2010-11-29T05:46:39-05:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="7"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Non-Filterable (Particle)"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="That portion of the analyte which is extracted from the liquid medium by filtration."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2012-04-30T10:57:48-04:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="5"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Non-settleable"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="That portion of the analyte which is in or absorbed to particles remaining in suspension in the sample container after a settling process."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2006-07-26T10:57:48-04:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="9"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Non-volatile"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="That portion of the analyte which is in a liquid or solid state under normal temperature and pressure."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2006-07-26T10:57:48-04:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="20"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Organic"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="Organic content of a sample"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2010-12-30T10:25:50-05:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="18"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Pot. Dissolved"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="Potentially Dissolved is the portion of a constituent measured from the filtrate of a water and suspended sediment sample that was treated with nitric acid prior to sample filtration."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2012-10-15T10:57:48-04:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="4"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Settleable"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="That portion of the analyte which is found in or absorbed to that part of the sample which has settled (fallen out of suspension) to the bottom of the sample container."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2006-07-26T10:57:48-04:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="24"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Strong Acid Diss"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="Strong Acid Dissociable, analyte that is released from analyte containing compounds under highly acidic conditions."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2012-10-15T03:00:00-04:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="12"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Supernate"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="That portion of the analyte found in the liquid layer above a precipitate produced from the sample."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2006-07-26T10:57:48-04:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="3"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Suspended"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="That portion of the analyte which is suspended in the sampled medium, either as, or adsorbed to, particles which are more or less uniformly dispersed within the medium."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2006-07-26T10:57:48-04:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="1"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Total"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="The total of all fractions of the analyte."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2006-07-26T10:57:48-04:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="14"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Total Recoverable"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="The analyte concentration available for analysis in an unfiltered sample following solubilization."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2012-10-15T10:57:48-04:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="16"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Total Residual"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="The amount of available analyte remaining after a given contact time. The sum of the combined available residual analyte and the free available residual analyte."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2012-10-15T10:57:48-04:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="25"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Total Soluble"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="The total of all fractions of the analyte / The sum of all of the different forms of the analyte present which becomes dissolved within the sample."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2013-02-27T10:57:48-05:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="29"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Unfiltered"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="Pertains to the constituents in a representative water-suspended-solids sample."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2015-12-02T11:44:16-05:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="11"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Vapor"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="That portion of the analyte which exists in a gaseous state and that under ordinary conditions is liquid or solid."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2006-07-26T10:57:48-04:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="8"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Volatile"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="That portion of the analyte which evaporates readily at normal temperature and pressure."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2006-07-26T10:57:48-04:00"></WQXElementRowColumn>
+    </WQXElementRow>
+    <WQXElementRow>
+      <WQXElementRowColumn colname="UniqueIdentifier" value="23"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Name" value="Weak Acid Diss"></WQXElementRowColumn>
+      <WQXElementRowColumn colname="Description" value="Weak Acid Dissociable, analyte that is readily released from analyte containing compounds when the pH is lowered."></WQXElementRowColumn>
+      <WQXElementRowColumn colname="LastChangeDate" value="2012-01-11T04:23:28-05:00"></WQXElementRowColumn>
+    </WQXElementRow>
+  </WQXElement>
+</WQXDomainValueList>
