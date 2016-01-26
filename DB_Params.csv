@@ -1,0 +1,2756 @@
+﻿CAS_Reg,Param,ParamGroup,USGSPCode
+NULL,NULL,NULL,NULL
+NULL,NULL,NULL,:Mispour
+NULL,NULL,NULL,"ANCF=""H13"""""""
+NULL,NULL,NULL,"ANCF=""H252"""""""
+NULL,NULL,NULL,"ANCF=""H9"""""""
+NULL,NULL,NULL,"CAF=""H200"""""""
+NULL,NULL,NULL,"CAF=""H245"""""""
+NULL,NULL,NULL,"CAF=""H248"""""""
+NULL,NULL,NULL,"CLF=""H12"""""""
+NULL,NULL,NULL,"CLF=""H13"""""""
+NULL,NULL,NULL,"CLF=""H14"""""""
+NULL,NULL,NULL,"CLF=""H36"""""""
+NULL,NULL,NULL,"CLF=""H9"""""""
+NULL,NULL,NULL,Colorado District Laboratory #333
+NULL,NULL,NULL,"COLORF=""H4"""""""
+NULL,NULL,NULL,"COLORF=""H5"""""""
+NULL,NULL,NULL,"COLORF=""H8"""""""
+NULL,NULL,NULL,"CONDF=""H13"""""""
+NULL,NULL,NULL,"CONDF=""H9"""""""
+NULL,NULL,NULL,"DICF=""H169"""""""
+NULL,NULL,NULL,"DICF=""H4"""""""
+NULL,NULL,NULL,"DICF=""H5"""""""
+NULL,NULL,NULL,"DICF=""H7"""""""
+NULL,NULL,NULL,"DOCF=""H15"""""""
+NULL,NULL,NULL,"DOCF=""H16"""""""
+NULL,NULL,NULL,"DOCF=""H78"""""""
+NULL,NULL,NULL,"Initial result and rerun result within acceptable "
+NULL,NULL,NULL,"KF=""H211"""""""
+NULL,NULL,NULL,"KF=""H223"""""""
+NULL,NULL,NULL,"KF=""H230"""""""
+NULL,NULL,NULL,"MGF=""H218"""""""
+NULL,NULL,NULL,"MGF=""H225"""""""
+NULL,NULL,NULL,"MGF=""H239"""""""
+NULL,NULL,NULL,"NAF=""H184"""""""
+NULL,NULL,NULL,"NAF=""H216"""""""
+NULL,NULL,NULL,"NAF=""H222"""""""
+NULL,NULL,NULL,"NAF=""H227"""""""
+NULL,NULL,NULL,"NH4F=""H30"""""""
+NULL,NULL,NULL,"NO3F=""H14"""""""
+NULL,NULL,NULL,"NO3F=""H27"""""""
+NULL,NULL,NULL,"NO3F=""H9"""""""
+NULL,NULL,NULL,"NTLF=""H35"""""""
+NULL,NULL,NULL,"NTLF=""H57"""""""
+NULL,NULL,NULL,"PHSTVLF=""H4"""""""
+NULL,NULL,NULL,"PHSTVLF=""H5"""""""
+NULL,NULL,NULL,"PHSTVLF=""H7"""""""
+NULL,NULL,NULL,"PTLF=""H35"""""""
+NULL,NULL,NULL,"PTLF=""H57"""""""
+NULL,NULL,NULL,Rerun and original results agree within LRL for LC
+NULL,NULL,NULL,"SEF=""H197"""""""
+NULL,NULL,NULL,"SEF=""H201"""""""
+NULL,NULL,NULL,"SEF=""H202"""""""
+NULL,NULL,NULL,"SEF=""H208"""""""
+NULL,NULL,NULL,"SEF=""H218"""""""
+NULL,NULL,NULL,"SEF=""H230"""""""
+NULL,NULL,NULL,"SEF=""H317"""""""
+NULL,NULL,NULL,"SEF=""H434B"""""""
+NULL,NULL,NULL,"SEF=""H631"""""""
+NULL,NULL,NULL,"SIO2F=""H10"""""""
+NULL,NULL,NULL,"SIO2F=""H13"""""""
+NULL,NULL,NULL,"SO4F=""H12"""""""
+NULL,NULL,NULL,"SO4F=""H13"""""""
+NULL,NULL,NULL,"SO4F=""H14"""""""
+NULL,NULL,NULL,"SO4F=""H165"""""""
+NULL,NULL,NULL,"SO4F=""H29"""""""
+NULL,NULL,NULL,"SO4F=""H36"""""""
+NULL,NULL,NULL,"SO4F=""H9"""""""
+NULL,NULL,NULL,"TSSF=""H204"""""""
+NULL,NULL,NULL,"TURBF=""H4"""""""
+NULL,NULL,NULL,"TURBF=""H5"""""""
+NULL,NULL,NULL,"TURBF=""H8"""""""
+NULL,NULL,NULL,"ZNF=""H249"""""""
+NULL,NULL,NULL,"ZNF=""H259"""""""
+NULL,NULL,NULL,"ZNF=""H277"""""""
+NULL,NULL,NULL,"ZNF=""H299"""""""
+NULL,NULL,NULL,"ZNF=""H491B"""""""
+NULL,(+/-)11-nor-9-carboxy-delta-THC,NULL,NULL
+NULL,"(1R,2S,5R)-Menthol",NULL,NULL
+NULL,".alpha.,.alpha.-Dimethylphenethylamine",NULL,NULL
+NULL,.alpha.-Endosulfan,NULL,NULL
+NULL,.alpha.-Endosulfan,NULL,34362
+NULL,.alpha.-Endosulfan,NULL,39388
+NULL,.alpha.-Endosulfan,NULL,39389
+NULL,.alpha.-Endosulfan,NULL,49332
+NULL,.alpha.-Endosulfan,NULL,82354
+NULL,.alpha.-Hexachlorocyclohexane,NULL,NULL
+NULL,.alpha.-Hexachlorocyclohexane,NULL,34253
+NULL,.alpha.-Hexachlorocyclohexane,NULL,49338
+NULL,.beta.-Endosulfan,NULL,NULL
+NULL,.beta.-Hexachlorocyclohexane,NULL,NULL
+NULL,.beta.-Hexachlorocyclohexane,NULL,49339
+NULL,.delta.-Hexachlorocyclohexane,NULL,NULL
+NULL,.lambda.-Cyhalothrin,NULL,61595
+NULL,1-(Aminomethyl)cyclohexaneacetic acid,NULL,NULL
+NULL,"1,1,1,2-Tetrachloroethane",NULL,NULL
+NULL,"1,1,1,2-Tetrachloroethane",NULL,77562
+NULL,"1,1,1-Trichloro-2-propanone",NULL,NULL
+NULL,"1,1,1-Trichloroethane",NULL,NULL
+NULL,"1,1,1-Trichloroethane",NULL,34506
+NULL,"1,1,2,2-Tetrachloroethane",NULL,NULL
+NULL,"1,1,2,2-Tetrachloroethane",NULL,34516
+NULL,"1,1,2-Trichloroethane",NULL,NULL
+NULL,"1,1,2-Trichloroethane",NULL,34511
+NULL,"1,1-Dichloroethane",NULL,NULL
+NULL,"1,1-Dichloroethane",NULL,34496
+NULL,"1,1-Dichloroethylene",NULL,NULL
+NULL,"1,1-Dichloroethylene",NULL,34501
+NULL,"1,1-Dichloropropene",NULL,NULL
+NULL,"1,1-Dichloropropene",NULL,77168
+NULL,"1,1-Dimethylbiguanide",NULL,NULL
+NULL,"1,2,3,4-Tetramethylbenzene",NULL,49999
+NULL,"1,2,3,5-Tetramethylbenzene",NULL,50000
+NULL,"1,2,3-Trichlorobenzene",NULL,NULL
+NULL,"1,2,3-Trichlorobenzene",NULL,77613
+NULL,"1,2,3-Trichloropropane",NULL,NULL
+NULL,"1,2,3-Trichloropropane",NULL,77443
+NULL,"1,2,3-Trimethylbenzene",NULL,77221
+NULL,"1,2,4,5-Tetrachlorobenzene",NULL,NULL
+NULL,"1,2,4-Trichlorobenzene",NULL,NULL
+NULL,"1,2,4-Trichlorobenzene",NULL,34551
+NULL,"1,2,4-Trichlorobenzene",NULL,34554
+NULL,"1,2,4-Trichlorobenzene",NULL,49438
+NULL,"1,2,4-Trimethylbenzene",NULL,NULL
+NULL,"1,2,4-Trimethylbenzene",NULL,77222
+NULL,"1,2-Dibromo-3-chloropropane",NULL,NULL
+NULL,"1,2-Dibromo-3-chloropropane",NULL,38760
+NULL,"1,2-Dibromo-3-chloropropane",NULL,82625
+NULL,"1,2-Dichloroethane",NULL,NULL
+NULL,"1,2-Dichloroethane",NULL,32103
+NULL,"1,2-Dichloroethylene",NULL,NULL
+NULL,"1,2-Dichloroethylene",NULL,45617
+NULL,"1,2-Dichloropropane",NULL,NULL
+NULL,"1,2-Dichloropropane",NULL,34541
+NULL,"1,2-Dimethylnaphthalene",NULL,49403
+NULL,"1,2-Diphenylhydrazine",NULL,NULL
+NULL,"1,3,4,6,7,8-Hexahydro-4,6,6,7,8,8-hexamethylcyclopenta[g]-2-benzopyran",NULL,NULL
+NULL,"1,3,5-Triazin-2(1H)-one, 4-(ethylamino)-6-[(1-methylethyl)amino]-",NULL,50355
+NULL,"1,3,5-Trimethylbenzene",NULL,NULL
+NULL,"1,3,5-Trimethylbenzene",NULL,77226
+NULL,"1,3-Dichloropropane",NULL,NULL
+NULL,"1,3-Dichloropropane",NULL,77173
+NULL,"1,3-Dichloropropene",NULL,NULL
+NULL,"1,3-Dichloropropene",NULL,34561
+NULL,"1,4-Benzenedicarboxylic acid, 2,3,5,6-tetrachloro-, monomethyl ester",NULL,49304
+NULL,"1,4-Dichloro-2-butene",NULL,NULL
+NULL,"1,4-Dichloro-2-butyne",NULL,NULL
+NULL,"1,4-Dioxane",NULL,NULL
+NULL,"1,6-Dimethylnaphthalene",NULL,49404
+NULL,1-Chloropropane,NULL,NULL
+NULL,"1H-Benzotriazole, 5-methyl-",NULL,61944
+NULL,"1H-Benzotriazole, 5-methyl-",NULL,62063
+NULL,1-Methylfluorene,NULL,49398
+NULL,1-Methylnaphthalene,NULL,NULL
+NULL,1-Methylnaphthalene,NULL,62054
+NULL,1-Methylnaphthalene,NULL,81696
+NULL,1-Methylphenanthrene,NULL,49410
+NULL,1-Methylpyrene,NULL,49388
+NULL,1-Naphthol,NULL,49295
+NULL,1-Naphthol,NULL,77441
+NULL,1-Phenethyl-4-(phenylpropionylamino)piperidine,NULL,NULL
+NULL,1RS cis-Permethrin,NULL,49349
+NULL,1RS cis-Permethrin,NULL,82687
+NULL,2-(Dimethylamino)-N-hydroxy-2-oxoethanimidothioic acid methyl ester,NULL,50410
+NULL,"2,2,4,5,6,7,8,8-Octachloro-2,3,3a,4,7,7a-hexahydro-4,7-methano-1H-indene",NULL,NULL
+NULL,"2,2'-Biquinoline",NULL,49391
+NULL,"2,2-Dichloropropane",NULL,NULL
+NULL,"2,2-Dichloropropane",NULL,77170
+NULL,"2,3,4,6-Tetrachlorophenol",NULL,NULL
+NULL,"2,3,4-Trichlorobiphenyl",NULL,NULL
+NULL,"2,3,5,6-Tetrachlorophenol",NULL,NULL
+NULL,"2,3,6-Trimethylnaphthalene",NULL,49405
+NULL,"2,4,5-T",NULL,NULL
+NULL,"2,4,5-T",NULL,39740
+NULL,"2,4,5-T",NULL,39741
+NULL,"2,4,5-T",NULL,39742
+NULL,"2,4,5-T",NULL,39743
+NULL,"2,4,5-Trichlorobiphenyl",NULL,NULL
+NULL,"2,4,5-Trichlorophenol",NULL,NULL
+NULL,"2,4,6-Trichlorophenol",NULL,NULL
+NULL,"2,4,6-Trichlorophenol",NULL,34621
+NULL,"2,4,6-Trichlorophenol",NULL,34624
+NULL,"2,4-D",NULL,NULL
+NULL,"2,4-D",NULL,39730
+NULL,"2,4-D",NULL,39731
+NULL,"2,4-D",NULL,39732
+NULL,"2,4-D",NULL,39733
+NULL,"2,4-D methyl ester",NULL,50470
+NULL,"2,4-D-13C6",NULL,NULL
+NULL,"2,4-DB",NULL,38746
+NULL,"2,4-Dichlorophenol",NULL,NULL
+NULL,"2,4-Dichlorophenol",NULL,34601
+NULL,"2,4-Dichlorophenol",NULL,34604
+NULL,"2,4-Dimethylphenol",NULL,NULL
+NULL,"2,4-Dimethylphenol",NULL,34606
+NULL,"2,4-Dimethylphenol",NULL,34609
+NULL,"2,4-Dinitrophenol",NULL,NULL
+NULL,"2,4-Dinitrophenol",NULL,34616
+NULL,"2,4-Dinitrophenol",NULL,34619
+NULL,"2,4-Dinitrotoluene",NULL,NULL
+NULL,"2,4-Dinitrotoluene",NULL,34611
+NULL,"2,4-Dinitrotoluene",NULL,34614
+NULL,"2,4-Dinitrotoluene",NULL,49395
+NULL,"2,4-Pyrimidinediamine, 5-[(3,4,5-trimethoxyphenyl)methyl]-",NULL,62023
+NULL,"2,6-Dichloro-4-methylphenol",NULL,NULL
+NULL,"2,6-Diethylaniline",NULL,NULL
+NULL,"2,6-Diethylaniline",NULL,82660
+NULL,"2,6-Dimethylnaphthalene",NULL,NULL
+NULL,"2,6-Dimethylnaphthalene",NULL,49406
+NULL,"2,6-Dimethylnaphthalene",NULL,62055
+NULL,"2,6-Dimethylnaphthalene",NULL,62805
+NULL,"2,6-Dinitrotoluene",NULL,NULL
+NULL,"2,6-Dinitrotoluene",NULL,34626
+NULL,"2,6-Dinitrotoluene",NULL,34629
+NULL,"2,6-Dinitrotoluene",NULL,49396
+NULL,"2-Chloro-4,6-diamino-s-triazine",NULL,04039
+NULL,2-Chloro-4-isopropylamino-6-amino-s-triazine,NULL,NULL
+NULL,2-Chloro-4-isopropylamino-6-amino-s-triazine,NULL,04040
+NULL,2-Chloro-4-isopropylamino-6-amino-s-triazine,NULL,75981
+NULL,2-Chloro-6-ethylamino-4-amino-s-triazine,NULL,04038
+NULL,2-Chloro-6-ethylamino-4-amino-s-triazine,NULL,75980
+NULL,2-Chloroethyl vinyl ether,NULL,NULL
+NULL,2-Chloroethyl vinyl ether,NULL,34576
+NULL,2-Chloronaphthalene,NULL,NULL
+NULL,2-Chloronaphthalene,NULL,34581
+NULL,2-Chloronaphthalene,NULL,34584
+NULL,2-Chloronaphthalene,NULL,49407
+NULL,2-Choro-6-ethylamino-4-amino-s-triazine,NULL,NULL
+NULL,2-Ethyl-6-methylaniline,NULL,61620
+NULL,2-Ethylhexanol,NULL,NULL
+NULL,2-Ethylnaphthalene,NULL,49948
+NULL,2-Hexanone,NULL,NULL
+NULL,2-Hexanone,NULL,77103
+NULL,2-Methyl-2-butanol,NULL,77073
+NULL,2-Methylanthracene,NULL,49435
+NULL,2-Methylnaphthalene,NULL,NULL
+NULL,2-Methylnaphthalene,NULL,30194
+NULL,2-Methylnaphthalene,NULL,62056
+NULL,"2-Propanol, 1,3-dichloro-, phosphate (3:1)",NULL,61707
+NULL,"2-Propanol, 1,3-dichloro-, phosphate (3:1)",NULL,62088
+NULL,"2-Pyrrolidinone, 1-methyl-5-(3-pyridinyl)-, (5S)-",NULL,61945
+NULL,"2-Pyrrolidinone, 1-methyl-5-(3-pyridinyl)-, (5S)-",NULL,62005
+NULL,"3,3',4,4',5,5'-Hexachlorobiphenyl",NULL,NULL
+NULL,"3,3'-Dichlorobenzidine",NULL,NULL
+NULL,"3,4-Dichloroaniline",NULL,61625
+NULL,"3,4-Dichlorophenyl isocyanate",NULL,63145
+NULL,"3,5-Dichloroaniline",NULL,61627
+NULL,"3,5-Dimethylphenol",NULL,49421
+NULL,"3,5-Dinitroaniline",NULL,49231
+NULL,3-Hydroxycarbofuran,NULL,NULL
+NULL,3-Hydroxycarbofuran,NULL,49308
+NULL,3-Hydroxycarbofuran,NULL,82584
+NULL,3-Methylindole,NULL,NULL
+NULL,3-Methylindole,NULL,62058
+NULL,3-Methylindole,NULL,62807
+NULL,"4(3H)-Quinazolinone, 2-methyl-3-(2-methylphenyl)-",NULL,NULL
+NULL,"4,4'-Isopropylidenediphenol",NULL,NULL
+NULL,"4,4'-Isopropylidenediphenol",NULL,62069
+NULL,"4,4'-Isopropylidenediphenol",NULL,62816
+NULL,"4,6-Dinitro-o-cresol",NULL,NULL
+NULL,"4,6-Dinitro-o-cresol",NULL,34657
+NULL,"4,6-Dinitro-o-cresol",NULL,34660
+NULL,"4,6-Dinitro-o-cresol",NULL,49299
+NULL,4-Chloro-2-methylphenol,NULL,61633
+NULL,4H-Cyclopenta[def]phenanthrene,NULL,49411
+NULL,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",NULL,NULL
+NULL,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",NULL,62167
+NULL,5-Nitrovanillin,NULL,NULL
+NULL,"6-Acetyl-1,1,2,4,4,7-hexamethyltetralin",NULL,NULL
+NULL,Acanthamoeba,NULL,NULL
+NULL,Acebutolol,NULL,NULL
+NULL,Acenaphthene,NULL,NULL
+NULL,Acenaphthene,NULL,34205
+NULL,Acenaphthene,NULL,34208
+NULL,Acenaphthene,NULL,49429
+NULL,Acenaphthene-d10,NULL,NULL
+NULL,Acenaphthylene,NULL,NULL
+NULL,Acenaphthylene,NULL,34200
+NULL,Acenaphthylene,NULL,34203
+NULL,Acenaphthylene,NULL,49428
+NULL,Acetaldehyde,NULL,NULL
+NULL,Acetaminophen,NULL,62000
+NULL,Acetochlor,NULL,NULL
+NULL,Acetochlor,NULL,49260
+NULL,Acetochlor ESA,NULL,NULL
+NULL,Acetochlor OA,NULL,NULL
+NULL,Acetone,NULL,NULL
+NULL,Acetone,NULL,81552
+NULL,Acetonitrile,NULL,NULL
+NULL,Acetophenone,NULL,NULL
+NULL,Acetophenone,NULL,62064
+NULL,Acetophenone,NULL,62811
+NULL,Acidity,NULL,00435
+NULL,Acidity,NULL,71825
+NULL,"Acidity, hydrogen ion (H+)",NULL,NULL
+NULL,"Acidity, hydrogen ion (H+) as CaCO3",NULL,NULL
+NULL,Acifluorfen,NULL,49315
+NULL,Acridine,NULL,49430
+NULL,Acrolein,NULL,NULL
+NULL,Acrolein,NULL,34210
+NULL,Acrylonitrile,NULL,NULL
+NULL,Acrylonitrile,NULL,34215
+NULL,Actinium-228,NULL,NULL
+NULL,Age,NULL,NULL
+NULL,Alachlor,NULL,NULL
+NULL,Alachlor,NULL,46342
+NULL,Alachlor,NULL,77825
+NULL,Alachlor ESA,NULL,NULL
+NULL,Alachlor ESA,NULL,50009
+NULL,Alachlor OA,NULL,NULL
+NULL,Aldicarb,NULL,NULL
+NULL,Aldicarb,NULL,49312
+NULL,Aldicarb,NULL,82619
+NULL,Aldicarb sulfone,NULL,NULL
+NULL,Aldicarb sulfone,NULL,49313
+NULL,Aldicarb sulfone,NULL,82587
+NULL,Aldicarb sulfoxide,NULL,NULL
+NULL,Aldicarb sulfoxide,NULL,49314
+NULL,Aldicarb sulfoxide,NULL,82586
+NULL,Aldrin,NULL,NULL
+NULL,Aldrin,NULL,39330
+NULL,Aldrin,NULL,39331
+NULL,Aldrin,NULL,39332
+NULL,Aldrin,NULL,39333
+NULL,Aldrin,NULL,49319
+NULL,"Algae, floating mats (severity)",NULL,01325
+NULL,Algal growth potential,NULL,85209
+NULL,Alkalinity,NULL,00409
+NULL,Alkalinity,NULL,00410
+NULL,Alkalinity,NULL,00413
+NULL,Alkalinity,NULL,00417
+NULL,Alkalinity,NULL,00418
+NULL,Alkalinity,NULL,00419
+NULL,Alkalinity,NULL,00421
+NULL,Alkalinity,NULL,00431
+NULL,Alkalinity,NULL,29801
+NULL,Alkalinity,NULL,29802
+NULL,Alkalinity,NULL,29803
+NULL,Alkalinity,NULL,29813
+NULL,Alkalinity,NULL,39036
+NULL,Alkalinity,NULL,39086
+NULL,Alkalinity,NULL,39087
+NULL,Alkalinity,NULL,90410
+NULL,Alkalinity,NULL,95410
+NULL,"Alkalinity, Bicarbonate as CaCO3",NULL,NULL
+NULL,"Alkalinity, Carbonate as CaCO3",NULL,NULL
+NULL,"Alkalinity, Hydroxide as CaCO3",NULL,NULL
+NULL,"Alkalinity, Phenolphthalein (total hydroxide+1/2 carbonate)",NULL,NULL
+NULL,"Alkalinity, Phenolphthalein (total hydroxide+1/2 carbonate) as CaCO3",NULL,NULL
+NULL,"Alkalinity, total",NULL,NULL
+NULL,"Alkalinity, total as CaCO3",NULL,NULL
+NULL,Allyl chloride,NULL,NULL
+NULL,Allyl chloride,NULL,78109
+NULL,Allyl-sec-butyl-barbituric acid,NULL,NULL
+NULL,Alpha emitting radium isotopes,NULL,09510
+NULL,Alpha particle,NULL,NULL
+NULL,Alpha particle,NULL,01503
+NULL,Alpha particle,NULL,01505
+NULL,Alpha particle,NULL,01515
+NULL,Alpha particle,NULL,01516
+NULL,Alpha particle,NULL,04126
+NULL,Alpha particle,NULL,04127
+NULL,Alpha particle,NULL,49960
+NULL,Alpha particle,NULL,49961
+NULL,Alpha particle,NULL,62636
+NULL,Alpha particle,NULL,62637
+NULL,Alpha particle,NULL,62639
+NULL,Alpha particle,NULL,62640
+NULL,Alpha particle,NULL,63014
+NULL,Alpha particle,NULL,63016
+NULL,Alpha particle,NULL,75986
+NULL,Alpha particle,NULL,75987
+NULL,Alpha particle,NULL,76004
+NULL,Alpha particle,NULL,80029
+NULL,Alpha particle,NULL,80030
+NULL,Alpha particle,NULL,80040
+NULL,Alpha particle,NULL,99337
+NULL,Alprazolam,NULL,NULL
+NULL,Alprazolam-D5,NULL,NULL
+NULL,Altitude,NULL,00042
+NULL,Aluminum,NULL,NULL
+NULL,Aluminum,NULL,01105
+NULL,Aluminum,NULL,01106
+NULL,Aluminum,NULL,01107
+NULL,Aluminum,NULL,01108
+NULL,Aluminum,NULL,04042
+NULL,Aluminum,NULL,30221
+NULL,Aluminum,NULL,34790
+NULL,Aluminum,NULL,34792
+NULL,Ametryn,NULL,82184
+NULL,Aminomethylphosphonic acid,NULL,62649
+NULL,Amitriptyline,NULL,NULL
+NULL,Amitriptyline (+/-)-E-10-hydroxylated,NULL,NULL
+NULL,Ammonia,NULL,NULL
+NULL,Ammonia,Nutrient,NULL
+NULL,Ammonia and ammonium,NULL,00608
+NULL,Ammonia and ammonium,NULL,00610
+NULL,Ammonia and ammonium,NULL,00611
+NULL,Ammonia and ammonium,NULL,71845
+NULL,Ammonia and ammonium,NULL,71846
+NULL,Ammonia as NH3,NULL,NULL
+NULL,Ammonia uptake,NULL,NULL
+NULL,Ammonia-nitrogen,NULL,NULL
+NULL,Ammonia-nitrogen as N,NULL,NULL
+NULL,Ammonium,NULL,NULL
+NULL,Ammonium as N,NULL,NULL
+NULL,Ammonium as NH4,NULL,NULL
+NULL,Ammonium perchlorate,NULL,NULL
+NULL,Aniline,NULL,NULL
+NULL,Anion deficit,NULL,NULL
+NULL,Anion/cation ratio,NULL,NULL
+NULL,Anions Total,NULL,NULL
+NULL,Anthracene,NULL,NULL
+NULL,Anthracene,NULL,34220
+NULL,Anthracene,NULL,34221
+NULL,Anthracene,NULL,34223
+NULL,Anthracene,NULL,49434
+NULL,Anthraquinone,NULL,49437
+NULL,Anthraquinone,NULL,62066
+NULL,Anthraquinone,NULL,62813
+NULL,Antimony,NULL,NULL
+NULL,Antimony,NULL,01095
+NULL,Antimony,NULL,01096
+NULL,Antimony,NULL,01097
+NULL,Antimony,NULL,01098
+NULL,Antimony,NULL,29816
+NULL,Antimony,NULL,34795
+NULL,Antimony-125,NULL,NULL
+NULL,Apparent color,NULL,NULL
+NULL,argon,NULL,82043
+NULL,Argon,NULL,85563
+NULL,Aroclor 1016,NULL,NULL
+NULL,Aroclor 1221,NULL,NULL
+NULL,Aroclor 1232,NULL,NULL
+NULL,Aroclor 1242,NULL,NULL
+NULL,Aroclor 1242,NULL,39499
+NULL,Aroclor 1248,NULL,NULL
+NULL,Aroclor 1248,NULL,39500
+NULL,Aroclor 1248,NULL,39503
+NULL,Aroclor 1254,NULL,NULL
+NULL,Aroclor 1254,NULL,39504
+NULL,Aroclor 1254,NULL,39507
+NULL,Aroclor 1260,NULL,NULL
+NULL,Aroclor 1260,NULL,39508
+NULL,Aroclor 1260,NULL,39511
+NULL,Aroclor 1262,NULL,NULL
+NULL,Arsenate (AsO43-),NULL,62453
+NULL,Arsenic,NULL,NULL
+NULL,Arsenic,NULL,01000
+NULL,Arsenic,NULL,01001
+NULL,Arsenic,NULL,01002
+NULL,Arsenic,NULL,01003
+NULL,Arsenic,NULL,04044
+NULL,Arsenic,NULL,29818
+NULL,Arsenic,NULL,34800
+NULL,Arsenic,NULL,34802
+NULL,Arsenite,NULL,62452
+NULL,"Arsonic acid, methyl-, ion(1-)",NULL,62454
+NULL,Atenolol,NULL,NULL
+NULL,Atenolol-D7,NULL,NULL
+NULL,Atraton,NULL,NULL
+NULL,Atraton,NULL,82185
+NULL,Atrazine,NULL,NULL
+NULL,Atrazine,NULL,39630
+NULL,Atrazine,NULL,39631
+NULL,Atrazine,NULL,39632
+NULL,Atrazine-d5 (ethyl-d5),NULL,NULL
+NULL,Azinphos-methyl,NULL,NULL
+NULL,Azinphos-methyl,NULL,39580
+NULL,Azinphos-methyl,NULL,82686
+NULL,Azobenzene,NULL,NULL
+NULL,Azobenzene,NULL,49443
+NULL,Azoxystrobin,NULL,NULL
+NULL,"Bacteria mixture, unspecified",NULL,NULL
+NULL,barium,NULL,NULL
+NULL,Barium,NULL,01005
+NULL,Barium,NULL,01006
+NULL,Barium,NULL,01007
+NULL,Barium,NULL,01008
+NULL,Barium,NULL,04045
+NULL,Barium,NULL,29820
+NULL,Barium,NULL,34805
+NULL,Barium,NULL,34807
+NULL,Barometric pressure,NULL,NULL
+NULL,Barometric pressure,NULL,00025
+NULL,Bendiocarb,NULL,NULL
+NULL,Bendiocarb,NULL,50299
+NULL,Benfluralin,NULL,NULL
+NULL,Benfluralin,NULL,82673
+NULL,Benomyl,NULL,50300
+NULL,Bensulfuron-methyl,NULL,61693
+NULL,Bentazon,NULL,NULL
+NULL,Bentazon,NULL,38711
+NULL,Benz[a]anthracene,NULL,NULL
+NULL,Benz[a]anthracene,NULL,34526
+NULL,Benz[a]anthracene,NULL,34529
+NULL,Benz[a]anthracene,NULL,49436
+NULL,Benzaldehyde,NULL,NULL
+NULL,"Benzamide, 5-chloro-N-[2-[4-[[[(cyclohexylamino)carbonyl]amino]sulfonyl]phenyl]ethyl]-2-methoxy-",NULL,NULL
+NULL,Benzene,NULL,NULL
+NULL,Benzene,NULL,34030
+NULL,"Benzene, 1,1'-oxybis[2,4-dibromo-",NULL,63147
+NULL,"Benzene, 1,3(and 1,4)-dimethyl- Chemical m(and p)-xylene",NULL,85795
+NULL,"Benzene, 1-chloro-2-[2,2,2-trichloro-1-(4-chlorophenyl)ethyl]-, 1,1'-(2,2,2-trichloroethylidene)bis[4-chlorobenzene], 1-chloro-2-[2,2-dichloro-1-(4-chlorophenyl)ethyl]benzene], 1,1'-(2,2-dichloroethylidene)bis[4-chlorobenzene], 1-chloro-2-[2,2-dichloro-1-(4-chlorophenyl)ethenyl]benzene, and 1,1'-(dichloroethenylidene)bis[4-chlorobenzene] and metabolites",NULL,90852
+NULL,"Benzene, 1-chloro-2-[2,2,2-trichloro-1-(4-chlorophenyl)ethyl]-, 1,1'-(2,2,2-trichloroethylidene)bis[4-chlorobenzene], 1-chloro-2-[2,2-dichloro-1-(4-chlorophenyl)ethyl]benzene], 1,1'-(2,2-dichloroethylidene)bis[4-chlorobenzene], 1-chloro-2-[2,2-dichloro-1-(4-chlorophenyl)ethenyl]benzene, and 1,1'-(dichloroethenylidene)bis[4-chlorobenzene] and metabolites",NULL,90863
+NULL,"Benzene, 1-methoxy-2-[2,2,2-trichloro-1-(4-methoxyphenyl)ethyl]-",NULL,49347
+NULL,"Benzene, pentachloromethoxy-",NULL,49460
+NULL,"Benzeneacetic acid, .alpha.-methyl-4-(2-methylpropyl)-",NULL,NULL
+NULL,"Benzeneethanamine, .alpha.-methyl-, (.alpha.S)-, sulfate (2:1)",NULL,NULL
+NULL,"Benzenemethanol, .alpha.-[(1R)-1-aminoethyl]-, hydrochloride (1:1), (.alpha.S)-rel-",NULL,NULL
+NULL,"Benzenemethanol, .alpha.-[(1S)-1-(methylamino)ethyl]-, (.alpha.S)-",NULL,NULL
+NULL,Benzidine,NULL,NULL
+NULL,Benzo(b)fluoranthene,NULL,NULL
+NULL,Benzo(b)fluoranthene,NULL,34230
+NULL,Benzo(b)fluoranthene,NULL,34233
+NULL,Benzo(b)fluoranthene,NULL,49458
+NULL,Benzo[a]pyrene,NULL,NULL
+NULL,Benzo[a]pyrene,NULL,34247
+NULL,Benzo[a]pyrene,NULL,34248
+NULL,Benzo[a]pyrene,NULL,34250
+NULL,Benzo[a]pyrene,NULL,49389
+NULL,Benzo[c]cinnoline,NULL,49468
+NULL,Benzo[e]pyrene,NULL,NULL
+NULL,Benzo[ghi]perylene,NULL,NULL
+NULL,Benzo[ghi]perylene,NULL,34521
+NULL,Benzo[ghi]perylene,NULL,34524
+NULL,Benzo[ghi]perylene,NULL,49408
+NULL,Benzo[k]fluoranthene,NULL,NULL
+NULL,Benzo[k]fluoranthene,NULL,34242
+NULL,Benzo[k]fluoranthene,NULL,34245
+NULL,Benzo[k]fluoranthene,NULL,49397
+NULL,Benzoic acid,NULL,NULL
+NULL,Benzophenone,NULL,NULL
+NULL,Benzophenone,NULL,62067
+NULL,Benzophenone,NULL,62814
+NULL,Benzoylecgonine hydrate,NULL,NULL
+NULL,Benzoylecgonine-D3,NULL,NULL
+NULL,Benzphetamine hydrochloride,NULL,NULL
+NULL,Benzyl alcohol,NULL,NULL
+NULL,Beryllium,NULL,NULL
+NULL,Beryllium,NULL,01010
+NULL,Beryllium,NULL,01011
+NULL,Beryllium,NULL,01012
+NULL,Beryllium,NULL,01013
+NULL,Beryllium,NULL,04046
+NULL,Beryllium,NULL,29822
+NULL,Beryllium,NULL,34810
+NULL,Beryllium,NULL,34812
+NULL,Beta Cypermethrin,NULL,61586
+NULL,Beta particle,NULL,NULL
+NULL,Beta particle,NULL,03501
+NULL,Beta particle,NULL,03503
+NULL,Beta particle,NULL,03505
+NULL,Beta particle,NULL,03515
+NULL,Beta particle,NULL,03516
+NULL,Beta particle,NULL,03519
+NULL,Beta particle,NULL,49964
+NULL,Beta particle,NULL,49965
+NULL,Beta particle,NULL,62642
+NULL,Beta particle,NULL,62643
+NULL,Beta particle,NULL,62645
+NULL,Beta particle,NULL,62646
+NULL,Beta particle,NULL,63015
+NULL,Beta particle,NULL,63017
+NULL,Beta particle,NULL,75988
+NULL,Beta particle,NULL,75989
+NULL,Beta particle,NULL,76005
+NULL,Beta particle,NULL,80050
+NULL,Beta particle,NULL,80060
+NULL,Beta particle,NULL,99323
+NULL,Bezafibrate,NULL,NULL
+NULL,Bicarbonate,NULL,NULL
+NULL,Bicarbonate,NULL,00425
+NULL,Bicarbonate,NULL,00440
+NULL,Bicarbonate,NULL,00450
+NULL,Bicarbonate,NULL,00451
+NULL,Bicarbonate,NULL,00453
+NULL,Bicarbonate,NULL,29804
+NULL,Bicarbonate,NULL,29805
+NULL,Bicarbonate,NULL,29806
+NULL,Bicarbonate,NULL,63786
+NULL,Bicarbonate,NULL,90440
+NULL,Bicarbonate,NULL,95440
+NULL,Bicarbonate,NULL,99440
+NULL,Bicarbonate,"Inorganics, Major, Non-metals",NULL
+NULL,"Biochemical oxygen demand, non-standard conditions",NULL,00324
+NULL,"Biochemical oxygen demand, standard conditions",NULL,NULL
+NULL,"Biochemical oxygen demand, standard conditions",NULL,00310
+NULL,"Biomass, periphyton",NULL,NULL
+NULL,"Biomass, periphyton",NULL,00572
+NULL,"Biomass, periphyton",NULL,00573
+NULL,"Biomass, periphyton",NULL,49954
+NULL,Biphenyl,NULL,NULL
+NULL,Bis(2-chloro-1-methylethyl) ether,NULL,NULL
+NULL,Bis(2-chloroethoxy)methane,NULL,NULL
+NULL,Bis(2-chloroethoxy)methane,NULL,34278
+NULL,Bis(2-chloroethoxy)methane,NULL,34281
+NULL,Bis(2-chloroethoxy)methane,NULL,49401
+NULL,Bis(2-chloroethyl) ether,NULL,NULL
+NULL,Bis(2-chloroethyl) ether,NULL,34273
+NULL,Bis(2-chloroethyl) ether,NULL,34276
+NULL,Bis(2-chloroethyl) ether,NULL,49456
+NULL,Bis(2-chloroisopropyl) ether,NULL,NULL
+NULL,Bis(2-chloroisopropyl) ether,NULL,34283
+NULL,Bis(2-chloroisopropyl) ether,NULL,34286
+NULL,Bismuth,NULL,NULL
+NULL,Bismuth,NULL,01015
+NULL,Bismuth,NULL,01017
+NULL,Bismuth,NULL,04047
+NULL,Bismuth,NULL,34815
+NULL,Bismuth,NULL,34816
+NULL,Bismuth,NULL,34817
+NULL,Bismuth-212,NULL,NULL
+NULL,Bismuth-214,NULL,NULL
+NULL,boron,NULL,NULL
+NULL,Boron,NULL,00999
+NULL,Boron,NULL,01020
+NULL,Boron,NULL,01021
+NULL,Boron,NULL,01022
+NULL,Boron,NULL,01023
+NULL,Bromacil,NULL,NULL
+NULL,Bromacil,NULL,04029
+NULL,Bromacil,NULL,30234
+NULL,Brombuterol hydrochloride,NULL,NULL
+NULL,Bromide,NULL,NULL
+NULL,Bromide,NULL,71870
+NULL,bromide,NULL,91000
+NULL,Bromine,NULL,NULL
+NULL,bromine,NULL,71871
+NULL,Bromoacetic acid,NULL,NULL
+NULL,Bromobenzene,NULL,NULL
+NULL,Bromobenzene,NULL,81555
+NULL,Bromochloroacetic acid,NULL,NULL
+NULL,Bromoxynil,NULL,NULL
+NULL,Bromoxynil,NULL,49311
+NULL,Bromoxynil-13C6,NULL,NULL
+NULL,Bupropion,NULL,NULL
+NULL,Butachlor,NULL,NULL
+NULL,Butachlor,NULL,30235
+NULL,Butachlor ESA,NULL,NULL
+NULL,Butalbital,NULL,NULL
+NULL,Butyl benzyl phthalate,NULL,NULL
+NULL,Butyl benzyl phthalate,NULL,34292
+NULL,Butyl benzyl phthalate,NULL,34295
+NULL,Butyl benzyl phthalate,NULL,49427
+NULL,Butylate,NULL,NULL
+NULL,Butylate,NULL,04028
+NULL,Butylate,NULL,30236
+NULL,Butylated hydroxyanisole,NULL,NULL
+NULL,Butylparaben,NULL,NULL
+NULL,C12 Hydrocarbons,NULL,NULL
+NULL,C1-C3 Fluorenes,NULL,NULL
+NULL,C1-C4 Chrysenes,NULL,NULL
+NULL,C1-C4 Fluoranthenes,NULL,NULL
+NULL,C1-C4 Phenanthrenes,NULL,NULL
+NULL,C28 Hydrocarbons,NULL,NULL
+NULL,Cacodylic acid,NULL,62455
+NULL,Cadmium,NULL,NULL
+NULL,Cadmium,NULL,01025
+NULL,Cadmium,NULL,01026
+NULL,Cadmium,NULL,01027
+NULL,Cadmium,NULL,01028
+NULL,Cadmium,NULL,04049
+NULL,Cadmium,NULL,29826
+NULL,Cadmium,NULL,34825
+NULL,Cadmium,NULL,34827
+NULL,Caffeine,NULL,NULL
+NULL,Caffeine,NULL,50305
+NULL,Caffeine,NULL,81436
+NULL,Caffeine-trimethyl-13C3,NULL,NULL
+NULL,Calcium,NULL,NULL
+NULL,Calcium,NULL,00910
+NULL,Calcium,NULL,00915
+NULL,Calcium,NULL,00916
+NULL,Calcium,NULL,00917
+NULL,Calcium,NULL,04050
+NULL,Calcium,NULL,34830
+NULL,Calcium,NULL,34832
+NULL,Calcium,NULL,82938
+NULL,calcium,NULL,91051
+NULL,Calcium as CaCO3,NULL,NULL
+NULL,Calcium carbonate as CaCO3,NULL,NULL
+NULL,Camphor,NULL,NULL
+NULL,Camphor,NULL,62070
+NULL,Camphor,NULL,62817
+NULL,Cannabidiol,NULL,NULL
+NULL,Cannabinol,NULL,NULL
+NULL,Caprolactam,NULL,NULL
+NULL,Carbamazepine,NULL,NULL
+NULL,Carbamazepine-d10,NULL,NULL
+NULL,Carbaryl,NULL,NULL
+NULL,Carbaryl,NULL,39750
+NULL,Carbaryl,NULL,49310
+NULL,Carbaryl,NULL,82680
+NULL,Carbazole,NULL,NULL
+NULL,Carbazole,NULL,49449
+NULL,Carbazole,NULL,62071
+NULL,Carbazole,NULL,77571
+NULL,Carbofuran,NULL,NULL
+NULL,Carbofuran,NULL,49309
+NULL,Carbofuran,NULL,82615
+NULL,Carbofuran,NULL,82674
+NULL,Carbofuran-D3,NULL,NULL
+NULL,Carbon,NULL,NULL
+NULL,Carbon dioxide,NULL,NULL
+NULL,Carbon dioxide,NULL,00405
+NULL,Carbon disulfide,NULL,NULL
+NULL,Carbon disulfide,NULL,77041
+NULL,Carbon tetrachloride,NULL,NULL
+NULL,Carbon tetrachloride,NULL,32102
+NULL,Carbon-13/Carbon-12 ratio,NULL,82081
+NULL,"Carbon-13/carbon-12, ratio",NULL,NULL
+NULL,Carbon-14,NULL,NULL
+NULL,Carbon-14,NULL,49933
+NULL,Carbon-14,NULL,49934
+NULL,Carbon-14,NULL,82172
+NULL,"Carbonaceous biochemical oxygen demand, non-standard conditions",NULL,00320
+NULL,"Carbonaceous biochemical oxygen demand, standard conditions",NULL,NULL
+NULL,"Carbonaceous biochemical oxygen demand, standard conditions",NULL,80082
+NULL,Carbonate,NULL,NULL
+NULL,Carbonate,"Inorganics, Major, Non-metals",NULL
+NULL,Carbonate,"Inorganics, Major, Non-metals",00445
+NULL,Carbonate,"Inorganics, Major, Non-metals",00447
+NULL,Carbonate,"Inorganics, Major, Non-metals",00452
+NULL,Carbonate,"Inorganics, Major, Non-metals",29807
+NULL,Carbonate,"Inorganics, Major, Non-metals",29808
+NULL,Carbonate,"Inorganics, Major, Non-metals",29809
+NULL,Carbonate,"Inorganics, Major, Non-metals",90445
+NULL,Carbonate,"Inorganics, Major, Non-metals",95445
+NULL,Carbonate,"Inorganics, Major, Non-metals",99445
+NULL,Carbonate (CO3),NULL,00430
+NULL,Carbonate (CO3),NULL,00445
+NULL,Carbonate (CO3),NULL,00452
+NULL,Carbonate (CO3),NULL,29807
+NULL,Carbonate (CO3),NULL,63788
+NULL,Carbonate (CO3),NULL,99430
+NULL,Carbonate as CaCO3,NULL,NULL
+NULL,Carbophenothion,NULL,NULL
+NULL,Carbophenothion,NULL,39786
+NULL,Carbophenothion,NULL,39787
+NULL,Carbophenothion,NULL,82342
+NULL,Carbophenothion-methyl,NULL,39790
+NULL,Carbophenothion-methyl,NULL,39791
+NULL,Carbophenothion-methyl,NULL,82344
+NULL,Carboxin,NULL,30245
+NULL,Carisoprodol,NULL,NULL
+NULL,Cation Total,NULL,NULL
+NULL,Cations-Anions,NULL,NULL
+NULL,Cerium,NULL,NULL
+NULL,Cerium,NULL,01110
+NULL,Cerium,NULL,01112
+NULL,Cerium,NULL,04051
+NULL,Cerium,NULL,34835
+NULL,Cerium,NULL,34837
+NULL,Cesium,NULL,NULL
+NULL,Cesium,NULL,01115
+NULL,Cesium,NULL,01117
+NULL,Cesium-134,NULL,NULL
+NULL,Cesium-137,NULL,NULL
+NULL,Cesium-137,NULL,28403
+NULL,CFC-11,NULL,NULL
+NULL,CFC-11,NULL,34488
+NULL,CFC-11,NULL,50281
+NULL,CFC-113,NULL,NULL
+NULL,CFC-113,NULL,50283
+NULL,CFC-113,NULL,77652
+NULL,CFC-12,NULL,NULL
+NULL,CFC-12,NULL,34668
+NULL,CFC-12,NULL,50282
+NULL,Charge Balance,NULL,NULL
+NULL,Chemical oxygen demand,NULL,NULL
+NULL,"Chemical oxygen demand, (high level)",NULL,00340
+NULL,"Chemical oxygen demand, (low level)",NULL,00335
+NULL,Chloramben-methyl,NULL,61188
+NULL,Chloramphenicol,NULL,NULL
+NULL,Chlordane,NULL,NULL
+NULL,"Chlordane, technical",NULL,39350
+NULL,"Chlordane, technical",NULL,39351
+NULL,"Chlordane, technical",NULL,39352
+NULL,"Chlordane, technical, and/or chlordane metabolites",NULL,39353
+NULL,"Chlordane, technical, and/or chlordane metabolites",NULL,90864
+NULL,Chlordecone,NULL,NULL
+NULL,Chlordiazepoxide hydrochloride,NULL,NULL
+NULL,Chloride,NULL,NULL
+NULL,Chloride,NULL,00940
+NULL,Chloride,NULL,70290
+NULL,chloride,NULL,91001
+NULL,Chloride,NULL,99220
+NULL,Chlorimuron-ethyl,NULL,NULL
+NULL,Chlorimuron-ethyl,NULL,50306
+NULL,Chlorinated naphthalenes,NULL,39250
+NULL,Chlorinated naphthalenes,NULL,39251
+NULL,Chlorinated naphthalenes,NULL,82360
+NULL,Chlorine,NULL,NULL
+NULL,Chlorine,NULL,50060
+NULL,Chlorine,NULL,50064
+NULL,Chloroacetic acid,NULL,NULL
+NULL,Chlorobenzene,NULL,NULL
+NULL,Chlorobenzene,NULL,34301
+NULL,Chlorodibromomethane,NULL,NULL
+NULL,Chlorodibromomethane,NULL,32105
+NULL,Chloroethane,NULL,NULL
+NULL,Chloroethane,NULL,34311
+NULL,Chloroform,NULL,NULL
+NULL,Chloroform,NULL,32106
+NULL,Chloromethane,NULL,NULL
+NULL,Chloromethane,NULL,34418
+NULL,Chloroneb,NULL,49322
+NULL,Chlorophyll a,NULL,NULL
+NULL,Chlorophyll a,NULL,32228
+NULL,Chlorophyll a,NULL,32230
+NULL,Chlorophyll a,NULL,70951
+NULL,Chlorophyll a,NULL,70953
+NULL,Chlorophyll a,NULL,70955
+NULL,Chlorophyll a,NULL,70957
+NULL,"Chlorophyll a, free of pheophytin",NULL,NULL
+NULL,"Chlorophyll a, uncorrected for pheophytin",NULL,NULL
+NULL,Chlorophyll b,NULL,NULL
+NULL,Chlorophyll b,NULL,32226
+NULL,Chlorophyll b,NULL,32231
+NULL,Chlorophyll b,NULL,70952
+NULL,Chlorophyll b,NULL,70954
+NULL,Chlorophyll b,NULL,70956
+NULL,Chlorophyll b,NULL,70958
+NULL,Chlorophyll c,NULL,NULL
+NULL,Chloroprene,NULL,NULL
+NULL,Chlorothalonil,NULL,NULL
+NULL,Chlorothalonil,NULL,49306
+NULL,Chlorotoluene,NULL,NULL
+NULL,Chlorpheniramine,NULL,NULL
+NULL,Chlorpyrifos,NULL,NULL
+NULL,Chlorpyrifos,NULL,38932
+NULL,Chlorpyrifos,NULL,38933
+NULL,Chlorthal-dimethyl,NULL,NULL
+NULL,Chlorthal-dimethyl,NULL,49324
+NULL,Chlorthal-dimethyl,NULL,82682
+NULL,Chlorthal-Monomethyl,NULL,NULL
+NULL,"Cholestan-3-ol, (3.beta.,5.beta.)-",NULL,62057
+NULL,"Cholestan-3-ol, (3.beta.,5.beta.)-",NULL,62806
+NULL,Cholesterol,NULL,NULL
+NULL,Cholesterol,NULL,62072
+NULL,Cholesterol,NULL,62818
+NULL,Chromium,NULL,NULL
+NULL,Chromium,NULL,01029
+NULL,Chromium,NULL,01030
+NULL,Chromium,NULL,01031
+NULL,Chromium,NULL,01034
+NULL,Chromium,NULL,04052
+NULL,Chromium,NULL,29829
+NULL,Chromium,NULL,34840
+NULL,Chromium,NULL,34842
+NULL,Chromium(III),NULL,NULL
+NULL,Chromium(VI),NULL,NULL
+NULL,Chromium(VI),NULL,01032
+NULL,Chrysene,NULL,NULL
+NULL,Chrysene,NULL,34320
+NULL,Chrysene,NULL,34323
+NULL,Chrysene,NULL,49450
+NULL,Chrysene-d12,NULL,NULL
+NULL,Cimetidine,NULL,NULL
+NULL,cis-(-)-2-[(Dimethylamino)methyl]-1[3-methoxyphenyl]-cyclohexanol,NULL,NULL
+NULL,"cis-1,2-Dichloroethylene",NULL,NULL
+NULL,"cis-1,2-Dichloroethylene",NULL,77093
+NULL,"cis-1,3-Dichloropropene",NULL,NULL
+NULL,"cis-1,3-Dichloropropene",NULL,34704
+NULL,cis-Chlordane,NULL,NULL
+NULL,cis-Chlordane,NULL,49320
+NULL,cis-Nonachlor,NULL,NULL
+NULL,cis-Nonachlor,NULL,49316
+NULL,Clenbuterol,NULL,NULL
+NULL,Clobazam,NULL,NULL
+NULL,Clonazepam,NULL,NULL
+NULL,Clonidine hydrochloride,NULL,NULL
+NULL,Clopyralid,NULL,04091
+NULL,Clopyralid,NULL,49305
+NULL,Cloud cover,NULL,NULL
+NULL,Cloud cover (percent),NULL,00032
+NULL,Coal,NULL,82031
+NULL,Cobalt,NULL,NULL
+NULL,Cobalt,NULL,01035
+NULL,Cobalt,NULL,01036
+NULL,Cobalt,NULL,01037
+NULL,Cobalt,NULL,01038
+NULL,Cobalt,NULL,04053
+NULL,Cobalt,NULL,34845
+NULL,Cobalt,NULL,34847
+NULL,Cobalt,NULL,35031
+NULL,Cobalt-60,NULL,NULL
+NULL,Cocaethylene,NULL,NULL
+NULL,Cocaethylene-D3,NULL,NULL
+NULL,Cocaine hydrochloride,NULL,NULL
+NULL,Cocaine-D3,NULL,NULL
+NULL,Codeine,NULL,NULL
+NULL,"Coliform/Streptococcus ratio, fecal",NULL,NULL
+NULL,Color,NULL,00080
+NULL,Conductivity,NULL,NULL
+NULL,Conductivity,NULL,"2"""""""
+NULL,Conductivity,NULL,"ACT. 83%"""""""
+NULL,Conductivity,NULL,cond
+NULL,Conductivity,NULL,"COND = 780 US/CM"""""""
+NULL,Conductivity,NULL,"pH = 7.95 water chem was not measured where water "
+NULL,Copper,NULL,NULL
+NULL,Copper,NULL,01040
+NULL,Copper,NULL,01041
+NULL,Copper,NULL,01042
+NULL,Copper,NULL,01043
+NULL,Copper,NULL,04054
+NULL,Copper,NULL,29832
+NULL,Copper,NULL,34850
+NULL,Copper,NULL,34852
+NULL,"Corrosion & scaling control, Ryznar Stability Index",NULL,NULL
+NULL,Cresol,NULL,NULL
+NULL,Cumene,NULL,NULL
+NULL,Cumene,NULL,62078
+NULL,Cumene,NULL,77223
+NULL,Cyanazine,NULL,NULL
+NULL,Cyanazine,NULL,04041
+NULL,Cyanazine,NULL,81757
+NULL,Cyanide,NULL,NULL
+NULL,Cyanide,NULL,00720
+NULL,Cyanide,NULL,00721
+NULL,Cyanide,NULL,00723
+NULL,cyanides amenable to chlorination (hcn & cn),NULL,NULL
+NULL,Cycloate,NULL,04031
+NULL,Cycloate,NULL,30254
+NULL,Cyclohexane,NULL,NULL
+NULL,"Cyclohexene, 1-methyl-4-(1-methylethenyl)-, (4R)-",NULL,62073
+NULL,"Cyclohexene, 1-methyl-4-(1-methylethenyl)-, (4R)-",NULL,62819
+NULL,"Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl-",NULL,62075
+NULL,"Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl-",NULL,62823
+NULL,Cyfluthrin,NULL,61585
+NULL,Cymene,NULL,NULL
+NULL,Cyprazine,NULL,82187
+NULL,D9 (+/-)11-nor-9-carboxy-delta-THC,NULL,NULL
+NULL,Dalapon,NULL,NULL
+NULL,"Dead fish, severity",NULL,01340
+NULL,Demeton,NULL,39560
+NULL,Density of water at 20 deg C,NULL,71820
+NULL,Depth,NULL,NULL
+NULL,Depth,NULL,72001
+NULL,Depth,NULL,72008
+NULL,Depth,NULL,81903
+NULL,Depth,NULL,82016
+NULL,Depth of pond or reservoir in feet,NULL,72025
+NULL,Depth to water level below land surface,NULL,72019
+NULL,"Depth, bottom",NULL,NULL
+NULL,"Depth, data-logger (non-ported)",NULL,NULL
+NULL,"Depth, data-logger (ported)",NULL,NULL
+NULL,"Depth, from ground surface to well water level",NULL,NULL
+NULL,"Depth, from ground surface to well water level",NULL,30210
+NULL,"Depth, Secchi disk depth",NULL,NULL
+NULL,"Depth, Secchi disk depth",NULL,"CLEAR TO BOTTOM"""";COMMENT_SECCHI="""" -ATH:Clear to "
+NULL,"Depth, snow cover",NULL,82300
+NULL,Desipramine,NULL,NULL
+NULL,"Detergent, severity",NULL,01305
+NULL,Deuterium/Hydrogen ratio,NULL,NULL
+NULL,Deuterium/Hydrogen ratio,NULL,82082
+NULL,Dextromethorphan hydrobromide,NULL,NULL
+NULL,Dextronorgestrel,NULL,NULL
+NULL,Di(2-ethylhexyl) adipate,NULL,NULL
+NULL,Di(2-ethylhexyl) phthalate,NULL,NULL
+NULL,Di(2-ethylhexyl) phthalate,NULL,39100
+NULL,Di(2-ethylhexyl) phthalate,NULL,39102
+NULL,Di(2-ethylhexyl) phthalate,NULL,49426
+NULL,Diazepam,NULL,NULL
+NULL,Diazepam-D5,NULL,NULL
+NULL,Diazinon,NULL,NULL
+NULL,Diazinon,NULL,39570
+NULL,Diazinon,NULL,39571
+NULL,Diazinon,NULL,39572
+NULL,Diazinon,NULL,39573
+NULL,Diazinon-D10,NULL,NULL
+NULL,"Dibenz[a,h]anthracene",NULL,NULL
+NULL,"Dibenz[a,h]anthracene",NULL,34556
+NULL,"Dibenz[a,h]anthracene",NULL,34559
+NULL,"Dibenz[a,h]anthracene",NULL,49461
+NULL,Dibenzofuran,NULL,NULL
+NULL,Dibenzothiophene,NULL,49452
+NULL,Dibromoacetic acid,NULL,NULL
+NULL,Dibromomethane,NULL,NULL
+NULL,Dibromomethane,NULL,30217
+NULL,Dibutyl phthalate,NULL,NULL
+NULL,Dibutyl phthalate,NULL,39110
+NULL,Dibutyl phthalate,NULL,39112
+NULL,Dibutyl phthalate,NULL,49381
+NULL,Dicamba,NULL,NULL
+NULL,Dicamba,NULL,38442
+NULL,Dicamba,NULL,82052
+NULL,Dichlobenil,NULL,49303
+NULL,Dichloroacetic acid,NULL,NULL
+NULL,Dichlorobiphenyl,NULL,NULL
+NULL,Dichlorobromomethane,NULL,NULL
+NULL,Dichlorobromomethane,NULL,32101
+NULL,Dichloroethylene,NULL,NULL
+NULL,Dichlorprop,NULL,NULL
+NULL,Dichlorprop,NULL,49302
+NULL,Dichlorprop,NULL,82183
+NULL,Dichlorprop,NULL,82356
+NULL,Dichlorvos,NULL,NULL
+NULL,Dichlorvos,NULL,30218
+NULL,Dichlorvos,NULL,38775
+NULL,Diclofenac,NULL,NULL
+NULL,Dicrotophos,NULL,38454
+NULL,Dieldrin,NULL,NULL
+NULL,Dieldrin,NULL,39380
+NULL,Dieldrin,NULL,39381
+NULL,Dieldrin,NULL,39382
+NULL,Dieldrin,NULL,39383
+NULL,Dieldrin,NULL,49331
+NULL,Diesel fuel,NULL,NULL
+NULL,Diesel range organics,NULL,NULL
+NULL,Diethyl phthalate,NULL,NULL
+NULL,Diethyl phthalate,NULL,34336
+NULL,Diethyl phthalate,NULL,34339
+NULL,Diethyl phthalate,NULL,49383
+NULL,Diltiazem hydrochloride,NULL,NULL
+NULL,Dimerin,NULL,NULL
+NULL,Dimethachlor,NULL,NULL
+NULL,Dimethachlor ESA,NULL,NULL
+NULL,Dimethenamid,NULL,NULL
+NULL,Dimethenamid,NULL,61588
+NULL,Dimethenamid ESA,NULL,NULL
+NULL,Dimethenamid OA,NULL,NULL
+NULL,Dimethoate,NULL,82662
+NULL,Dimethyl phthalate,NULL,NULL
+NULL,Dimethyl phthalate,NULL,34341
+NULL,Dimethyl phthalate,NULL,34344
+NULL,Dimethyl phthalate,NULL,49384
+NULL,Dinitro-o-cresol,NULL,NULL
+NULL,Di-n-octyl phthalate,NULL,NULL
+NULL,Di-n-octyl phthalate,NULL,34596
+NULL,Di-n-octyl phthalate,NULL,34599
+NULL,Di-n-octyl phthalate,NULL,49382
+NULL,Dinoseb,NULL,NULL
+NULL,Dinoseb,NULL,49301
+NULL,Diphenamid,NULL,04033
+NULL,Diphenamid,NULL,30255
+NULL,Diphenhydramine-D3,NULL,NULL
+NULL,Diquat dibromide,NULL,NULL
+NULL,Dissolved oxygen (DO),NULL,NULL
+NULL,Dissolved oxygen (DO),NULL,"Act. 8?.3%"""""""
+NULL,Dissolved oxygen (DO),NULL,"elevation 6300 feet. Act. 7?.9. (Center digit not "
+NULL,Dissolved oxygen (DO),NULL,"METER WILL NOT CALLIBRATE."""""""
+NULL,Dissolved oxygen (DO),NULL,"Theor 75.0%"""""""
+NULL,Dissolved oxygen saturation,NULL,NULL
+NULL,Disulfoton,NULL,NULL
+NULL,Disulfoton,NULL,39011
+NULL,Disulfoton,NULL,82677
+NULL,Disulfoton sulfone,NULL,NULL
+NULL,Disulfoton sulfone,NULL,61640
+NULL,Diuron,NULL,NULL
+NULL,Diuron,NULL,49300
+NULL,Diuron Metabolite,NULL,NULL
+NULL,DL-Amphetamine-D5,NULL,NULL
+NULL,Dotriacontane,NULL,NULL
+NULL,Doxepin,NULL,NULL
+NULL,Dysprosium,NULL,NULL
+NULL,Dysprosium,NULL,82331
+NULL,Ecgonine methyl ester hydrochloride,NULL,NULL
+NULL,Ecgonine Methyl Ester-D3,NULL,NULL
+NULL,"Elevation, water surface, MSL",NULL,NULL
+NULL,Endosulfan,NULL,NULL
+NULL,Endosulfan sulfate,NULL,NULL
+NULL,Endosulfan sulfate,NULL,61590
+NULL,Endrin,NULL,NULL
+NULL,Endrin,NULL,39390
+NULL,Endrin,NULL,39391
+NULL,Endrin,NULL,39392
+NULL,Endrin,NULL,39393
+NULL,Endrin,NULL,49335
+NULL,Endrin aldehyde,NULL,NULL
+NULL,Endrin ketone,NULL,NULL
+NULL,Enterococcus,NULL,NULL
+NULL,Equilenin,NULL,NULL
+NULL,Equilin,NULL,NULL
+NULL,Erbium,NULL,NULL
+NULL,Erbium,NULL,01246
+NULL,Erbium,NULL,50573
+NULL,Erythromycin,NULL,NULL
+NULL,Escherichia,NULL,NULL
+NULL,Escherichia coli,NULL,NULL
+NULL,Escherichia coli,NULL,31633
+NULL,Escherichia coli,NULL,31648
+NULL,Escherichia coli,NULL,50278
+NULL,Escherichia coli,NULL,90901
+NULL,Escherichia coli,NULL,90902
+NULL,Esfenvalerate,NULL,49298
+NULL,"Estra-1,3,5,7,9-pentaen-17-one, 3-hydroxy-",NULL,62074
+NULL,Estradiol,NULL,NULL
+NULL,Estradiol,NULL,62053
+NULL,Estrone,NULL,NULL
+NULL,Estrone,NULL,62484
+NULL,Ethalfluralin,NULL,NULL
+NULL,Ethalfluralin,NULL,82663
+NULL,"Ethanamine, 2-(diphenylmethoxy)-N,N-dimethyl-",NULL,NULL
+NULL,"Ethanamine, 2-(diphenylmethoxy)-N,N-dimethyl-",NULL,62796
+NULL,Ethane,NULL,NULL
+NULL,Ethane,NULL,82045
+NULL,"Ethanimidothioic acid, N-hydroxy-, methyl ester",NULL,61696
+NULL,"Ethanol, 2-(4-nonylphenoxy)-",NULL,61704
+NULL,"Ethanone, 1-(2,3-dihydro-1,1,2,3,3,6-hexamethyl-1H-inden-5-yl)-",NULL,NULL
+NULL,"Ethanone, 1-[6-(1,1-dimethylethyl)-2,3-dihydro-1,1-dimethyl-1H-inden-4-yl]-",NULL,NULL
+NULL,"Ethene, 1,2-dibromo-",NULL,39082
+NULL,Ethinyl estradiol,NULL,NULL
+NULL,Ethinyl estradiol,NULL,62052
+NULL,Ethion,NULL,NULL
+NULL,Ethion,NULL,39398
+NULL,Ethion,NULL,39399
+NULL,Ethion,NULL,82346
+NULL,Ethion monooxon,NULL,61644
+NULL,Ethoprop,NULL,NULL
+NULL,Ethoprop,NULL,82672
+NULL,Ethyl ether,NULL,NULL
+NULL,Ethyl ether,NULL,81576
+NULL,Ethyl methacrylate,NULL,NULL
+NULL,Ethyl methacrylate,NULL,73570
+NULL,Ethyl tert-butyl ether,NULL,50004
+NULL,Ethylan,NULL,39034
+NULL,Ethylan,NULL,81886
+NULL,Ethylan,NULL,82348
+NULL,Ethylbenzene,NULL,NULL
+NULL,Ethylbenzene,NULL,34371
+NULL,Ethylene,NULL,NULL
+NULL,Ethylene,NULL,82044
+NULL,Ethylene dibromide,NULL,NULL
+NULL,Ethylene dibromide,NULL,77651
+NULL,Ethylene glycol,NULL,NULL
+NULL,Europium,NULL,NULL
+NULL,Europium,NULL,01236
+NULL,Europium,NULL,04055
+NULL,Europium,NULL,34855
+NULL,Europium,NULL,34857
+NULL,Europium,NULL,50574
+NULL,Europium-152,NULL,NULL
+NULL,Europium-154,NULL,NULL
+NULL,Evaporation,NULL,00050
+NULL,Extended diesel range organics C10-C36,NULL,63746
+NULL,Famotidine,NULL,NULL
+NULL,Fecal Coliform,NULL,NULL
+NULL,Fecal coliforms,NULL,31616
+NULL,Fecal coliforms,NULL,31625
+NULL,Fecal Streptococcus,NULL,31673
+NULL,Fecal Streptococcus,NULL,31679
+NULL,Fecal Streptococcus Group Bacteria,NULL,NULL
+NULL,Fenamiphos,NULL,61591
+NULL,Fenbendazole,NULL,NULL
+NULL,Fenuron,NULL,49297
+NULL,Fipronil,NULL,NULL
+NULL,Fipronil,NULL,62166
+NULL,"Floating debris, severity",NULL,01345
+NULL,Flow,NULL,NULL
+NULL,"Flow rate, instantaneous",NULL,00059
+NULL,Flufenacet,NULL,62481
+NULL,Flumetsulam,NULL,61694
+NULL,Flunitrazepam,NULL,NULL
+NULL,Fluometuron,NULL,38811
+NULL,Fluoranthene,NULL,NULL
+NULL,Fluoranthene,NULL,34376
+NULL,Fluoranthene,NULL,34377
+NULL,Fluoranthene,NULL,34379
+NULL,Fluoranthene,NULL,49466
+NULL,"Fluoranthene-1,2,3,4,5,6,7,8,9,10-d10",NULL,NULL
+NULL,Fluorene,NULL,NULL
+NULL,Fluorene,NULL,34381
+NULL,Fluorene,NULL,34384
+NULL,Fluorene,NULL,49399
+NULL,Fluoride,NULL,NULL
+NULL,Fluoride,NULL,00950
+NULL,Fluoride,NULL,00951
+NULL,fluoride,NULL,91002
+NULL,fluorine,NULL,NULL
+NULL,fluorine,NULL,00953
+NULL,Fluoxetine hydrochloride,NULL,NULL
+NULL,Fluoxetine-D6,NULL,NULL
+NULL,Flurazepam,NULL,NULL
+NULL,Fonofos,NULL,NULL
+NULL,Fonofos,NULL,04095
+NULL,Fonofos,NULL,82614
+NULL,Furosemide,NULL,NULL
+NULL,Gadolinium,NULL,NULL
+NULL,Gadolinium,NULL,01219
+NULL,Gadolinium,NULL,50575
+NULL,Gage height,NULL,30207
+NULL,Gallium,NULL,NULL
+NULL,Gallium,NULL,01120
+NULL,Gallium,NULL,01122
+NULL,Gallium,NULL,04056
+NULL,Gallium,NULL,34860
+NULL,Gallium,NULL,34862
+NULL,Gas bubble severity,NULL,01310
+NULL,Gasoline,NULL,NULL
+NULL,Gasoline range organics,NULL,NULL
+NULL,Gasoline range organics,NULL,49892
+NULL,Gemfibrozil,NULL,NULL
+NULL,Gemfibrozil-D6,NULL,NULL
+NULL,General observation (text),NULL,NULL
+NULL,Germanium,NULL,NULL
+NULL,Germanium,NULL,01125
+NULL,Germanium,NULL,01127
+NULL,Glipizide,NULL,NULL
+NULL,Glyphosate,NULL,NULL
+NULL,Glyphosate,NULL,39941
+NULL,Glyphosate,NULL,62722
+NULL,Gold,NULL,NULL
+NULL,Gold,NULL,04058
+NULL,Gold,NULL,34870
+NULL,Gold,NULL,34872
+NULL,Gold,NULL,82170
+NULL,Grab sample,NULL,NULL
+NULL,Grab sample  (dip),NULL,NULL
+NULL,Gran acid neutralizing capacity,NULL,NULL
+NULL,"Gross alpha radioactivity, (Americium-241 ref std)",NULL,NULL
+NULL,"Gross alpha radioactivity, (nat-Uranium ref std)",NULL,NULL
+NULL,"Gross alpha radioactivity, (Thorium-230 ref std)",NULL,NULL
+NULL,"Gross beta radioactivity, (Cesium-137 ref std)",NULL,NULL
+NULL,"Gross beta radioactivity, (Strontium-Yttrium-90 ref std)",NULL,NULL
+NULL,Hafnium,NULL,NULL
+NULL,Halogenated organics,NULL,NULL
+NULL,Halon 1011,NULL,NULL
+NULL,Halon 1011,NULL,77297
+NULL,"Hardness, Ca, Mg",NULL,NULL
+NULL,"Hardness, Ca, Mg as CaCO3",NULL,NULL
+NULL,"Hardness, carbonate",NULL,NULL
+NULL,"Hardness, carbonate",NULL,00901
+NULL,"Hardness, carbonate as CaCO3",NULL,NULL
+NULL,"Hardness, magnesium",NULL,NULL
+NULL,"Hardness, non-carbonate",NULL,NULL
+NULL,"Hardness, non-carbonate",NULL,00902
+NULL,"Hardness, non-carbonate",NULL,00903
+NULL,"Hardness, non-carbonate",NULL,00904
+NULL,"Hardness, non-carbonate",NULL,00905
+NULL,"Hardness, non-carbonate",NULL,95902
+NULL,HCFC-21,NULL,NULL
+NULL,"Height, gage",NULL,00065
+NULL,Helium,NULL,NULL
+NULL,Helium,NULL,61038
+NULL,Helium,NULL,64184
+NULL,Heptachlor,NULL,NULL
+NULL,Heptachlor,NULL,39410
+NULL,Heptachlor,NULL,39411
+NULL,Heptachlor,NULL,39412
+NULL,Heptachlor,NULL,39413
+NULL,Heptachlor,NULL,49341
+NULL,Heptachlor epoxide,NULL,NULL
+NULL,Heptachlor epoxide,NULL,39420
+NULL,Heptachlor epoxide,NULL,39421
+NULL,Heptachlor epoxide,NULL,39422
+NULL,Heptachlor epoxide,NULL,39423
+NULL,Heptachlor epoxide,NULL,49342
+NULL,Heptachlorobiphenyl,NULL,NULL
+NULL,Heterotrophic bacteria,NULL,NULL
+NULL,Hexachlorobenzene,NULL,NULL
+NULL,Hexachlorobenzene,NULL,39700
+NULL,Hexachlorobenzene,NULL,39701
+NULL,Hexachlorobenzene,NULL,49343
+NULL,Hexachlorobiphenyl,NULL,NULL
+NULL,Hexachlorobutadiene,NULL,NULL
+NULL,Hexachlorobutadiene,NULL,39702
+NULL,Hexachlorobutadiene,NULL,39705
+NULL,Hexachlorocyclohexane,NULL,NULL
+NULL,Hexachlorocyclopentadiene,NULL,NULL
+NULL,Hexachlorocyclopentadiene,NULL,34386
+NULL,Hexachlorocyclopentadiene,NULL,34389
+NULL,Hexachloroethane,NULL,NULL
+NULL,Hexachloroethane,NULL,34396
+NULL,Hexachloroethane,NULL,34399
+NULL,Hexane,NULL,NULL
+NULL,Hexazinone,NULL,NULL
+NULL,Hexazinone,NULL,04025
+NULL,Hexazinone,NULL,30264
+NULL,Holmium,NULL,NULL
+NULL,Holmium,NULL,01247
+NULL,Holmium,NULL,04059
+NULL,Holmium,NULL,34875
+NULL,Holmium,NULL,34877
+NULL,Holmium,NULL,50577
+NULL,Hydrocarbons,NULL,NULL
+NULL,"Hydrocarbons, petroleum",NULL,NULL
+NULL,"Hydrocarbons, petroleum",NULL,62172
+NULL,"Hydrocarbons, volatile",NULL,NULL
+NULL,Hydrocodone bitartrate,NULL,NULL
+NULL,Hydrocodone-D6,NULL,NULL
+NULL,Hydrogen,NULL,NULL
+NULL,Hydrogen,NULL,64185
+NULL,Hydrogen ion,NULL,00191
+NULL,Hydrogen sulfide,NULL,NULL
+NULL,Hydrogen sulfide,NULL,71875
+NULL,Hydromorphone hydrochloride,NULL,NULL
+NULL,Hydroxide,NULL,NULL
+NULL,Hydroxide,NULL,71830
+NULL,Hydroxide,NULL,71832
+NULL,Hydroxide,NULL,71834
+NULL,Hydroxide,NULL,99830
+NULL,Ibuprofen-13C3,NULL,NULL
+NULL,"Ice cover, floating or solid",NULL,01355
+NULL,Imazaquin,NULL,NULL
+NULL,Imazaquin,NULL,50356
+NULL,Imazethapyr,NULL,NULL
+NULL,Imazethapyr,NULL,50407
+NULL,Imidacloprid,NULL,NULL
+NULL,Imidacloprid,NULL,61695
+NULL,Imipramine,NULL,NULL
+NULL,"Indeno[1,2,3-cd]pyrene",NULL,NULL
+NULL,"Indeno[1,2,3-cd]pyrene",NULL,34403
+NULL,"Indeno[1,2,3-cd]pyrene",NULL,34406
+NULL,"Indeno[1,2,3-cd]pyrene",NULL,49390
+NULL,Indium,NULL,NULL
+NULL,Indole,NULL,NULL
+NULL,Indole,NULL,62076
+NULL,Indole,NULL,62824
+NULL,Inorganic carbon,NULL,NULL
+NULL,Inorganic carbon,NULL,00685
+NULL,Inorganic carbon,NULL,00686
+NULL,Inorganic carbon,NULL,00688
+NULL,Inorganic carbon,NULL,00691
+NULL,Inorganic carbon,NULL,30241
+NULL,Inorganic carbon,NULL,49270
+NULL,Inorganic nitrogen (nitrate and nitrite),NULL,NULL
+NULL,Inorganic nitrogen (nitrate and nitrite),NULL,00630
+NULL,Inorganic nitrogen (nitrate and nitrite),NULL,00631
+NULL,Inorganic nitrogen (nitrate and nitrite),NULL,00633
+NULL,Inorganic nitrogen (nitrate and nitrite),NULL,99889
+NULL,Inorganic nitrogen (nitrate and nitrite) as N,NULL,NULL
+NULL,"Instream features, est. stream width",NULL,00004
+NULL,iodide,NULL,NULL
+NULL,iodide,NULL,71865
+NULL,Iodine,NULL,NULL
+NULL,Iodine-131,NULL,NULL
+NULL,Ionic strength,NULL,NULL
+NULL,Iprodione,NULL,61593
+NULL,Iridium,NULL,NULL
+NULL,Iron,NULL,NULL
+NULL,Iron,NULL,01044
+NULL,Iron,NULL,01045
+NULL,Iron,NULL,01046
+NULL,Iron,NULL,01170
+NULL,Iron,NULL,04135
+NULL,Iron,NULL,30269
+NULL,Iron,NULL,34880
+NULL,Iron,NULL,34882
+NULL,Iron,NULL,71885
+NULL,iron,NULL,99115
+NULL,iron,NULL,99129
+NULL,"Iron, ion (Fe2+)",NULL,01047
+NULL,"iron, ion (fe2+)",NULL,99114
+NULL,Iron-59,NULL,07060
+NULL,Isoborneol,NULL,NULL
+NULL,Isoborneol,NULL,62077
+NULL,Isoborneol,NULL,62825
+NULL,Isobutanol,NULL,NULL
+NULL,Isodrin,NULL,NULL
+NULL,Isodrin,NULL,49344
+NULL,Isofenphos,NULL,61594
+NULL,Isophorone,NULL,NULL
+NULL,Isophorone,NULL,34408
+NULL,Isophorone,NULL,34409
+NULL,Isophorone,NULL,34411
+NULL,Isophorone,NULL,49400
+NULL,Isopropanol,NULL,NULL
+NULL,Isopropyl ether,NULL,81577
+NULL,Isoquinoline,NULL,NULL
+NULL,Isoquinoline,NULL,49394
+NULL,Isoquinoline,NULL,62079
+NULL,Isoquinoline,NULL,62826
+NULL,Kjeldahl nitrogen,NULL,NULL
+NULL,Kjeldahl nitrogen,NULL,00623
+NULL,Kjeldahl nitrogen,NULL,00624
+NULL,Kjeldahl nitrogen,NULL,00625
+NULL,Kjeldahl nitrogen,NULL,00626
+NULL,Kjeldahl nitrogen,NULL,00635
+NULL,Kjeldahl nitrogen,NULL,00636
+NULL,Kjeldahl nitrogen,NULL,99892
+NULL,Kjeldahl nitrogen,NULL,99894
+NULL,Kjeldahl nitrogen as N,NULL,NULL
+NULL,Krypton,NULL,85565
+NULL,Langelier index (pH's),NULL,NULL
+NULL,Lanthanum,NULL,NULL
+NULL,Lanthanum,NULL,01180
+NULL,Lanthanum,NULL,01182
+NULL,Lanthanum,NULL,34885
+NULL,Lanthanum,NULL,34887
+NULL,Lead,NULL,NULL
+NULL,Lead,NULL,01049
+NULL,Lead,NULL,01050
+NULL,Lead,NULL,01051
+NULL,Lead,NULL,01052
+NULL,Lead,NULL,04130
+NULL,Lead,NULL,29836
+NULL,Lead,NULL,34890
+NULL,Lead,NULL,34892
+NULL,Lead-210,NULL,NULL
+NULL,Lead-210,NULL,17503
+NULL,Lead-210,NULL,75946
+NULL,Lead-210,NULL,75949
+NULL,Lead-210,NULL,75995
+NULL,Lead-212,NULL,NULL
+NULL,Lead-214,NULL,NULL
+NULL,Lederfen,NULL,NULL
+NULL,Levorphanol,NULL,NULL
+NULL,"Light attenuation, depth at 99%",NULL,NULL
+NULL,"Light, transmissivity",NULL,NULL
+NULL,Lindane,NULL,NULL
+NULL,Lindane,NULL,39340
+NULL,Lindane,NULL,39341
+NULL,Lindane,NULL,39342
+NULL,Lindane,NULL,39343
+NULL,Lindane,NULL,49345
+NULL,Linuron,NULL,NULL
+NULL,Linuron,NULL,38478
+NULL,Linuron,NULL,82666
+NULL,Lithium,NULL,NULL
+NULL,Lithium,NULL,01130
+NULL,Lithium,NULL,01131
+NULL,Lithium,NULL,01132
+NULL,Lithium,NULL,01133
+NULL,Lithium,NULL,34895
+NULL,Lithium,NULL,34897
+NULL,Lithium,NULL,35050
+NULL,Lithium,NULL,68079
+NULL,Lloyd - Zar - Karr Species Diversity Index,NULL,NULL
+NULL,Loratadine,NULL,NULL
+NULL,Lorazepam,NULL,NULL
+NULL,Lutetium,NULL,NULL
+NULL,Lutetium,NULL,01244
+NULL,Lutetium,NULL,62844
+NULL,Magnesium,NULL,NULL
+NULL,Magnesium,NULL,00921
+NULL,Magnesium,NULL,00924
+NULL,Magnesium,NULL,00925
+NULL,Magnesium,NULL,00926
+NULL,Magnesium,NULL,00927
+NULL,Magnesium,NULL,34900
+NULL,Magnesium,NULL,34902
+NULL,magnesium,NULL,91052
+NULL,Malaoxon,NULL,61652
+NULL,Malathion,NULL,NULL
+NULL,Malathion,NULL,39530
+NULL,Malathion,NULL,39531
+NULL,Malathion,NULL,39532
+NULL,Malathion,NULL,39533
+NULL,Malathion-D10,NULL,NULL
+NULL,Manganese,NULL,NULL
+NULL,Manganese,NULL,01053
+NULL,Manganese,NULL,01054
+NULL,Manganese,NULL,01055
+NULL,Manganese,NULL,01056
+NULL,Manganese,NULL,01123
+NULL,Manganese,NULL,04136
+NULL,Manganese,NULL,29839
+NULL,Manganese,NULL,34905
+NULL,Manganese,NULL,34907
+NULL,Manganese,NULL,71883
+NULL,Manganese,NULL,83298
+NULL,Manganese-54,NULL,NULL
+NULL,MBAS,NULL,NULL
+NULL,m-Chlorotoluene,NULL,NULL
+NULL,MCPA,NULL,NULL
+NULL,MCPA,NULL,38482
+NULL,MCPB,NULL,38487
+NULL,m-Cresol,NULL,NULL
+NULL,m-Cymene,NULL,NULL
+NULL,MDA,NULL,NULL
+NULL,MDEA,NULL,NULL
+NULL,m-Dichlorobenzene,NULL,NULL
+NULL,m-Dichlorobenzene,NULL,34566
+NULL,m-Dichlorobenzene,NULL,34569
+NULL,m-Dichlorobenzene,NULL,49441
+NULL,m-Dinitrobenzene,NULL,NULL
+NULL,MDMA,NULL,NULL
+NULL,Mecoprop,NULL,NULL
+NULL,Medroxyprogesterone,NULL,NULL
+NULL,Megestrol acetate,NULL,NULL
+NULL,Meperidine,NULL,NULL
+NULL,Mephobarbital,NULL,NULL
+NULL,Meprobamate,NULL,NULL
+NULL,Mercury,NULL,NULL
+NULL,Mercury,NULL,04133
+NULL,Mercury,NULL,29841
+NULL,Mercury,NULL,34910
+NULL,Mercury,NULL,50286
+NULL,Mercury,NULL,50287
+NULL,Mercury,NULL,71890
+NULL,Mercury,NULL,71895
+NULL,Mercury,NULL,71900
+NULL,Mercury,NULL,71921
+NULL,Mestranol,NULL,NULL
+NULL,meta & para Xylene mix,NULL,NULL
+NULL,Metalaxyl,NULL,NULL
+NULL,Metalaxyl,NULL,04254
+NULL,Metalaxyl,NULL,50359
+NULL,Metalaxyl,NULL,61596
+NULL,Methacrylonitrile,NULL,NULL
+NULL,Methacrylonitrile,NULL,81593
+NULL,Methamphetamine hydrochloride,NULL,NULL
+NULL,Methane,NULL,NULL
+NULL,Methane,NULL,76994
+NULL,Methane,NULL,85574
+NULL,Methidathion,NULL,61598
+NULL,Methiocarb,NULL,NULL
+NULL,Methiocarb,NULL,30282
+NULL,Methiocarb,NULL,38501
+NULL,Methomyl,NULL,NULL
+NULL,Methomyl,NULL,39051
+NULL,Methomyl,NULL,49296
+NULL,Methoxychlor,NULL,NULL
+NULL,Methoxychlor,NULL,39480
+NULL,Methoxychlor,NULL,39481
+NULL,Methoxychlor,NULL,49346
+NULL,Methoxychlor,NULL,82350
+NULL,Methyl acetate,NULL,NULL
+NULL,Methyl acetate,NULL,77032
+NULL,Methyl acrylate,NULL,49991
+NULL,Methyl bromide,NULL,NULL
+NULL,Methyl bromide,NULL,34413
+NULL,Methyl ethyl ketone,NULL,NULL
+NULL,Methyl ethyl ketone,NULL,81595
+NULL,Methyl iodide,NULL,NULL
+NULL,Methyl iodide,NULL,77424
+NULL,Methyl isobutyl ketone,NULL,NULL
+NULL,Methyl isobutyl ketone,NULL,78133
+NULL,Methyl methacrylate,NULL,NULL
+NULL,Methyl methacrylate,NULL,81597
+NULL,Methyl paraoxon,NULL,61664
+NULL,Methyl parathion,NULL,NULL
+NULL,Methyl parathion,NULL,39600
+NULL,Methyl parathion,NULL,39601
+NULL,Methyl parathion,NULL,39602
+NULL,Methyl parathion,NULL,39603
+NULL,Methyl parathion,NULL,82667
+NULL,Methyl salicylate,NULL,NULL
+NULL,Methyl salicylate,NULL,62081
+NULL,Methyl salicylate,NULL,62828
+NULL,Methyl tert-butyl ether,NULL,NULL
+NULL,Methyl tert-butyl ether,NULL,78032
+NULL,Methylcyclohexane,NULL,NULL
+NULL,Methylene chloride,NULL,NULL
+NULL,Methylene chloride,NULL,34423
+NULL,Methylmercury(1+),NULL,50284
+NULL,Methylmercury(1+),NULL,50285
+NULL,Methylparaben,NULL,NULL
+NULL,Metolachlor,NULL,NULL
+NULL,Metolachlor,NULL,39415
+NULL,Metolachlor,NULL,82612
+NULL,Metolachlor ESA,NULL,NULL
+NULL,Metolachlor OA,NULL,NULL
+NULL,Metoprolol,NULL,NULL
+NULL,Metribuzin,NULL,NULL
+NULL,Metribuzin,NULL,82611
+NULL,Metribuzin,NULL,82630
+NULL,Metsulfuron-methyl,NULL,61697
+NULL,m-Hydroxybenzoylecgonine,NULL,NULL
+NULL,Mirex,NULL,NULL
+NULL,Mirex,NULL,39755
+NULL,Mirex,NULL,39756
+NULL,Mirex,NULL,39758
+NULL,Mirex,NULL,49348
+NULL,m-Nitroaniline,NULL,NULL
+NULL,Moisture content,NULL,00495
+NULL,Molinate,NULL,NULL
+NULL,Molinate,NULL,82671
+NULL,Molybdenum,NULL,NULL
+NULL,Molybdenum,NULL,01060
+NULL,Molybdenum,NULL,01061
+NULL,Molybdenum,NULL,01062
+NULL,Molybdenum,NULL,01063
+NULL,Molybdenum,NULL,29843
+NULL,Molybdenum,NULL,34915
+NULL,Molybdenum,NULL,34917
+NULL,Monensin,NULL,NULL
+NULL,Monocrotophos,NULL,82186
+NULL,Monuron,NULL,NULL
+NULL,"Morphinan-6-ol, 7,8-didehydro-4,5-epoxy-3-methoxy-17-methyl-, (5.alpha.,6.alpha.)-",NULL,62003
+NULL,"Morphinan-6-one, 4,5-epoxy-14-hydroxy-3-methoxy-17-methyl-, (5.alpha.)-",NULL,NULL
+NULL,Morphine,NULL,NULL
+NULL,"Morpholine, 3-methyl-2-phenyl-",NULL,NULL
+NULL,Musk ketone,NULL,NULL
+NULL,m-Xylene,NULL,NULL
+NULL,Myclobutanil,NULL,61599
+NULL,"N,N-Diethyl-m-toluamide",NULL,NULL
+NULL,"N,N-Diethyl-m-toluamide",NULL,61947
+NULL,"N,N-Diethyl-m-toluamide",NULL,62082
+NULL,Naphthalene,NULL,NULL
+NULL,Naphthalene,NULL,34443
+NULL,Naphthalene,NULL,34445
+NULL,Naphthalene,NULL,34696
+NULL,Naphthalene,NULL,49402
+NULL,Napropamide,NULL,NULL
+NULL,Napropamide,NULL,82684
+NULL,Naproxen,NULL,NULL
+NULL,NARSTEST~Enterococci Samp,NULL,NULL
+NULL,n-Butylbenzene,NULL,NULL
+NULL,n-Butylbenzene,NULL,77342
+NULL,Neburon,NULL,NULL
+NULL,Neburon,NULL,49294
+NULL,Neodymium,NULL,NULL
+NULL,Neodymium,NULL,01237
+NULL,Neodymium,NULL,34920
+NULL,Neodymium,NULL,34922
+NULL,Neodymium,NULL,50579
+NULL,Neon,NULL,61046
+NULL,Neon,NULL,64186
+NULL,Nickel,NULL,NULL
+NULL,Nickel,NULL,01065
+NULL,Nickel,NULL,01066
+NULL,Nickel,NULL,01067
+NULL,Nickel,NULL,01068
+NULL,Nickel,NULL,04132
+NULL,Nickel,NULL,29845
+NULL,Nickel,NULL,34925
+NULL,Nickel,NULL,34927
+NULL,Nicosulfuron,NULL,50364
+NULL,Nifedipine,NULL,NULL
+NULL,Niobium,NULL,NULL
+NULL,Niobium,NULL,01239
+NULL,Niobium,NULL,34930
+NULL,Niobium,NULL,34932
+NULL,Niobium,NULL,50580
+NULL,Nitrate,NULL,NULL
+NULL,Nitrate,NULL,00618
+NULL,Nitrate,NULL,00620
+NULL,Nitrate,NULL,71850
+NULL,Nitrate,NULL,71851
+NULL,Nitrate,NULL,91003
+NULL,Nitrate,Nutrient,NULL
+NULL,Nitrate and nitrite as NO3,NULL,NULL
+NULL,Nitrate as N,NULL,NULL
+NULL,Nitrate as NO3,NULL,NULL
+NULL,Nitrate-Nitrogen,NULL,NULL
+NULL,Nitrazepam,NULL,NULL
+NULL,Nitrite,NULL,NULL
+NULL,Nitrite,NULL,00613
+NULL,Nitrite,NULL,00615
+NULL,Nitrite,NULL,71855
+NULL,Nitrite,NULL,71856
+NULL,Nitrite,Nutrient,NULL
+NULL,Nitrite as N,NULL,NULL
+NULL,Nitrite as NO2,NULL,NULL
+NULL,Nitrobenzene,NULL,NULL
+NULL,Nitrobenzene,NULL,34447
+NULL,Nitrobenzene,NULL,34450
+NULL,Nitrobenzene,NULL,49444
+NULL,nitrogen,NULL,NULL
+NULL,Nitrogen,NULL,00597
+NULL,Nitrogen,NULL,49570
+NULL,Nitrogen as N,NULL,NULL
+NULL,Nitrogen ion,NULL,NULL
+NULL,"Nitrogen, ammonium/ammonia ratio",NULL,NULL
+NULL,"Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)",NULL,NULL
+NULL,"Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)",NULL,00600
+NULL,"Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)",NULL,00602
+NULL,"Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)",NULL,00603
+NULL,"Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)",NULL,62845
+NULL,"Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)",NULL,62854
+NULL,"Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)",NULL,62855
+NULL,"Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)",NULL,71887
+NULL,"Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)",NULL,99410
+NULL,Nitrogen-15/14 ratio,NULL,82084
+NULL,Nitrogen-15/14 ratio,NULL,82690
+NULL,Nitrogen-15/14 ratio,NULL,82691
+NULL,N-Nitrosodimethylamine,NULL,NULL
+NULL,N-Nitrosodimethylamine,NULL,34438
+NULL,N-Nitrosodimethylamine,NULL,34441
+NULL,N-Nitrosodi-n-propylamine,NULL,NULL
+NULL,N-Nitrosodi-n-propylamine,NULL,34428
+NULL,N-Nitrosodi-n-propylamine,NULL,34431
+NULL,N-Nitrosodi-n-propylamine,NULL,49431
+NULL,N-Nitrosodiphenylamine,NULL,NULL
+NULL,N-Nitrosodiphenylamine,NULL,34433
+NULL,N-Nitrosodiphenylamine,NULL,34436
+NULL,N-Nitrosodiphenylamine,NULL,49433
+NULL,Nonylphenol,NULL,NULL
+NULL,Nordoxepin,NULL,NULL
+NULL,Norethisterone,NULL,NULL
+NULL,Norethynodrel,NULL,NULL
+NULL,Norfluoxetine oxalate,NULL,NULL
+NULL,Norfluoxetine-D6,NULL,NULL
+NULL,Norflurazon,NULL,49293
+NULL,Nortriptyline,NULL,NULL
+NULL,Norverapamil hydrochloride,NULL,NULL
+NULL,Not Detected,NULL,NULL
+NULL,Not Detected,NULL,"Initial result and rerun result within acceptable "
+NULL,Not Reported,NULL,NULL
+NULL,N-Phenyl-N-(4-piperidinyl)propanamide,NULL,NULL
+NULL,n-Propylbenzene,NULL,NULL
+NULL,n-Propylbenzene,NULL,77224
+NULL,Nutrient-nitrogen,NULL,NULL
+NULL,"o,p'-DDD",NULL,49325
+NULL,"o,p'-DDE",NULL,49327
+NULL,"o,p'-DDT",NULL,49329
+NULL,o-Chlorophenol,NULL,NULL
+NULL,o-Chlorophenol,NULL,34586
+NULL,o-Chlorophenol,NULL,34589
+NULL,o-Chlorophenol,NULL,49467
+NULL,o-Chlorotoluene,NULL,NULL
+NULL,o-Chlorotoluene,NULL,77275
+NULL,o-Cresol,NULL,NULL
+NULL,Octachlorobiphenyl,NULL,NULL
+NULL,o-Dichlorobenzene,NULL,NULL
+NULL,o-Dichlorobenzene,NULL,34536
+NULL,o-Dichlorobenzene,NULL,34539
+NULL,o-Dichlorobenzene,NULL,49439
+NULL,O-Dinitrobenzene,NULL,NULL
+NULL,Odor threshold number,NULL,NULL
+NULL,Odor threshold number,NULL,00085
+NULL,"Odor, atmospheric",NULL,01330
+NULL,o-Ethyltoluene,NULL,77220
+NULL,Oil and grease,NULL,NULL
+NULL,Oil and grease -- CWA 304B,NULL,00550
+NULL,Oil and grease -- CWA 304B,NULL,00552
+NULL,Oil and grease -- CWA 304B,NULL,00556
+NULL,Oil and grease -- CWA 304B,NULL,00557
+NULL,Oil and grease -- CWA 304B,NULL,01300
+NULL,Oil Range Organics,NULL,NULL
+NULL,Omeprazole,NULL,NULL
+NULL,o-Nitroaniline,NULL,NULL
+NULL,o-Nitrophenol,NULL,NULL
+NULL,o-Nitrophenol,NULL,34591
+NULL,o-Nitrophenol,NULL,34594
+NULL,Organic anions,NULL,NULL
+NULL,Organic carbon,NULL,NULL
+NULL,Organic carbon,NULL,00680
+NULL,Organic carbon,NULL,00681
+NULL,Organic carbon,NULL,00687
+NULL,Organic carbon,NULL,00689
+NULL,Organic carbon,NULL,30243
+NULL,Organic carbon,NULL,49271
+NULL,Organic carbon,NULL,50465
+NULL,Organic Nitrogen,NULL,NULL
+NULL,Organic nitrogen,NULL,00605
+NULL,Organic nitrogen,NULL,00607
+NULL,Organic phosphorus,NULL,00670
+NULL,Organic phosphorus,NULL,00673
+NULL,"Organics mix, unspecified",NULL,NULL
+NULL,ortho & para Xylene mix,NULL,NULL
+NULL,Orthophosphate,NULL,NULL
+NULL,Orthophosphate as P,NULL,NULL
+NULL,Orthophosphate as PO4,NULL,NULL
+NULL,Oryzalin,NULL,NULL
+NULL,Oryzalin,NULL,49292
+NULL,Osmium,NULL,NULL
+NULL,Oxamyl,NULL,NULL
+NULL,Oxamyl,NULL,38866
+NULL,Oxamyl,NULL,82613
+NULL,Oxidation reduction potential (ORP),NULL,NULL
+NULL,Oxidation reduction potential (ORP),NULL,00090
+NULL,Oxidation reduction potential (ORP),NULL,63002
+NULL,Oxidized Nifedipine,NULL,NULL
+NULL,Oxychlordane,NULL,49318
+NULL,Oxyfluorfen,NULL,61600
+NULL,Oxygen,NULL,00300
+NULL,Oxygen,NULL,00301
+NULL,Oxygen,NULL,62971
+NULL,Oxygen-18/Oxygen-16 ratio,NULL,NULL
+NULL,Oxygen-18/Oxygen-16 ratio,NULL,82085
+NULL,Oxygen-18/Oxygen-16 ratio,NULL,82727
+NULL,o-Xylene,NULL,NULL
+NULL,o-Xylene,NULL,77135
+NULL,Oxymorphone,NULL,NULL
+NULL,"p-(1,1,3,3-Tetramethylbutyl)phenol",NULL,NULL
+NULL,"p-(1,1,3,3-Tetramethylbutyl)phenol",NULL,62062
+NULL,"p-(1,1,3,3-Tetramethylbutyl)phenol",NULL,62810
+NULL,"p,p'-DDD",NULL,NULL
+NULL,"p,p'-DDD",NULL,39310
+NULL,"p,p'-DDD",NULL,39311
+NULL,"p,p'-DDD",NULL,39360
+NULL,"p,p'-DDD",NULL,39361
+NULL,"p,p'-DDD",NULL,39362
+NULL,"p,p'-DDD",NULL,39363
+NULL,"p,p'-DDD",NULL,49326
+NULL,"p,p'-DDE",NULL,NULL
+NULL,"p,p'-DDE",NULL,34653
+NULL,"p,p'-DDE",NULL,39321
+NULL,"p,p'-DDE",NULL,39365
+NULL,"p,p'-DDE",NULL,39366
+NULL,"p,p'-DDE",NULL,39367
+NULL,"p,p'-DDE",NULL,39368
+NULL,"p,p'-DDE",NULL,49328
+NULL,"p,p'-DDT",NULL,NULL
+NULL,"p,p'-DDT",NULL,39300
+NULL,"p,p'-DDT",NULL,39301
+NULL,"p,p'-DDT",NULL,39370
+NULL,"p,p'-DDT",NULL,39371
+NULL,"p,p'-DDT",NULL,39372
+NULL,"p,p'-DDT",NULL,39373
+NULL,"p,p'-DDT",NULL,49330
+NULL,Palladium,NULL,NULL
+NULL,Paraoxon,NULL,NULL
+NULL,Paraquat,NULL,NULL
+NULL,Parathion,NULL,NULL
+NULL,Parathion,NULL,39540
+NULL,Parathion,NULL,39541
+NULL,Parathion,NULL,39542
+NULL,Parathion,NULL,39543
+NULL,Paroxetine,NULL,NULL
+NULL,Partial pressure of dissolved gases,NULL,NULL
+NULL,Partial pressure of dissolved gases,NULL,00047
+NULL,Particle size,NULL,70331
+NULL,"Particle size, Sieve No. 230, 250 mesh, (0.063mm)",NULL,NULL
+NULL,p-Bromophenyl phenyl ether,NULL,NULL
+NULL,p-Bromophenyl phenyl ether,NULL,34636
+NULL,p-Bromophenyl phenyl ether,NULL,34639
+NULL,p-Bromophenyl phenyl ether,NULL,49454
+NULL,p-Chloroaniline,NULL,NULL
+NULL,p-Chloro-m-cresol,NULL,NULL
+NULL,p-Chloro-m-cresol,NULL,34452
+NULL,p-Chloro-m-cresol,NULL,34455
+NULL,p-Chloro-m-cresol,NULL,49422
+NULL,p-Chlorophenyl phenyl ether,NULL,NULL
+NULL,p-Chlorophenyl phenyl ether,NULL,34641
+NULL,p-Chlorophenyl phenyl ether,NULL,34644
+NULL,p-Chlorophenyl phenyl ether,NULL,49455
+NULL,p-Chlorotoluene,NULL,NULL
+NULL,p-Chlorotoluene,NULL,77277
+NULL,p-Cresol,NULL,NULL
+NULL,p-Cresol,NULL,49451
+NULL,p-Cresol,NULL,62084
+NULL,p-Cresol,NULL,77146
+NULL,p-Cumylphenol,NULL,NULL
+NULL,p-Cymene,NULL,NULL
+NULL,p-Cymene,NULL,77356
+NULL,p-Dichlorobenzene,NULL,NULL
+NULL,p-Dichlorobenzene,NULL,34571
+NULL,p-Dichlorobenzene,NULL,34572
+NULL,p-Dichlorobenzene,NULL,34574
+NULL,p-Dichlorobenzene,NULL,49442
+NULL,p-Dinitrobenzene,NULL,NULL
+NULL,Pebulate,NULL,NULL
+NULL,Pebulate,NULL,82669
+NULL,Pendimethalin,NULL,NULL
+NULL,Pendimethalin,NULL,82683
+NULL,Pentachlorobiphenyl,NULL,NULL
+NULL,Pentachloroethane,NULL,NULL
+NULL,Pentachloronitrobenzene,NULL,49446
+NULL,Pentachlorophenol,NULL,NULL
+NULL,Pentachlorophenol,NULL,34459
+NULL,Pentachlorophenol,NULL,39032
+NULL,Pentachlorophenol,NULL,39061
+NULL,Pentachlorophenol-13C6,NULL,NULL
+NULL,Pentazocine,NULL,NULL
+NULL,Perchlorate,NULL,NULL
+NULL,Permethrin,NULL,NULL
+NULL,Petroleum phenols,NULL,NULL
+NULL,pH,NULL,NULL
+NULL,pH,NULL,00400
+NULL,pH,NULL,90400
+NULL,"pH, lab",NULL,00403
+NULL,Phenanthrene,NULL,NULL
+NULL,Phenanthrene,NULL,34461
+NULL,Phenanthrene,NULL,34462
+NULL,Phenanthrene,NULL,34464
+NULL,Phenanthrene,NULL,49409
+NULL,Phenanthrene-d10,NULL,NULL
+NULL,Phenanthridine,NULL,49393
+NULL,Phendimetrazine,NULL,NULL
+NULL,Phenobarbital,NULL,NULL
+NULL,Phenobarbital-D5,NULL,NULL
+NULL,Phenol,NULL,NULL
+NULL,Phenol,NULL,34466
+NULL,Phenol,NULL,34694
+NULL,Phenol,NULL,34695
+NULL,Phenol,NULL,49413
+NULL,"Phenol, 2-(1,1-dimethylethyl)-4-methoxy-",NULL,61702
+NULL,"Phenol, 2-(1,1-dimethylethyl)-4-methoxy-",NULL,62059
+NULL,"Phenol, 4-(1-methyl-1-phenylethyl)-",NULL,62060
+NULL,"Phenol, 4-(1-methyl-1-phenylethyl)-",NULL,62808
+NULL,Phenol-D6,NULL,NULL
+NULL,Phenols and phenolic compounds,NULL,32730
+NULL,Phenytoin,NULL,NULL
+NULL,Pheophytin a,NULL,NULL
+NULL,Pheophytin a,NULL,62360
+NULL,Phorate,NULL,NULL
+NULL,Phorate,NULL,39023
+NULL,Phorate,NULL,82664
+NULL,Phosmet,NULL,61601
+NULL,Phosmetoxon,NULL,61668
+NULL,Phosphate,NULL,NULL
+NULL,Phosphate,NULL,00660
+NULL,Phosphate,NULL,00671
+NULL,Phosphate,NULL,51131
+NULL,Phosphate,NULL,70507
+NULL,Phosphate,NULL,91004
+NULL,Phosphate,Nutrient,NULL
+NULL,Phosphate,Nutrient,00650
+NULL,Phosphate,Nutrient,00653
+NULL,Phosphate-phosphorus,NULL,NULL
+NULL,Phosphate-phosphorus,NULL,00650
+NULL,Phosphate-phosphorus,NULL,00653
+NULL,Phosphate-phosphorus as P,NULL,NULL
+NULL,Phosphate-phosphorus as PO4,NULL,NULL
+NULL,"Phosphoric acid, diethyl 6-methyl-2-(1-methylethyl)-4-pyrimidinyl ester",NULL,61638
+NULL,Phosphorus,NULL,NULL
+NULL,Phosphorus,NULL,00665
+NULL,Phosphorus,NULL,00666
+NULL,Phosphorus,NULL,00668
+NULL,Phosphorus,NULL,30292
+NULL,Phosphorus,NULL,34935
+NULL,Phosphorus,NULL,34937
+NULL,Phosphorus,NULL,71886
+NULL,Phosphorus,NULL,71888
+NULL,Phosphorus,NULL,99891
+NULL,Phosphorus,NULL,99893
+NULL,Phosphorus as P,NULL,NULL
+NULL,Phytoplankton,NULL,60050
+NULL,Picloram,NULL,NULL
+NULL,Picloram,NULL,39720
+NULL,Picloram,NULL,49291
+NULL,Pindolol,NULL,NULL
+NULL,"Piperidine, 1-(1-phenylcyclohexyl)-, hydrochloride",NULL,NULL
+NULL,Platinum,NULL,NULL
+NULL,Plutonium-238,NULL,22001
+NULL,Plutonium-238,NULL,49939
+NULL,Plutonium-239 and Plutonium-240 combined,NULL,49940
+NULL,Plutonium-239 and Plutonium-240 combined,NULL,49941
+NULL,p-Nitroaniline,NULL,NULL
+NULL,p-Nitrophenol,NULL,NULL
+NULL,p-Nitrophenol,NULL,34646
+NULL,p-Nitrophenol,NULL,34649
+NULL,p-Octylphenol,NULL,NULL
+NULL,p-Octylphenol,NULL,62061
+NULL,p-Octylphenol,NULL,62809
+NULL,Polychlorinated biphenyls,NULL,39516
+NULL,Polychlorinated biphenyls,NULL,39517
+NULL,Polychlorinated biphenyls,NULL,39518
+NULL,Polychlorinated biphenyls,NULL,39519
+NULL,Polychlorinated biphenyls,NULL,49459
+NULL,Polyphosphate,NULL,NULL
+NULL,potassium,NULL,NULL
+NULL,Potassium,NULL,00935
+NULL,Potassium,NULL,00937
+NULL,Potassium,NULL,00938
+NULL,Potassium,NULL,00939
+NULL,Potassium,NULL,34940
+NULL,Potassium,NULL,34942
+NULL,Potassium,NULL,81204
+NULL,potassium,NULL,91054
+NULL,Potassium bisulfate,NULL,NULL
+NULL,Potassium-40,NULL,NULL
+NULL,Potassium-40,NULL,75037
+NULL,Potassium-40,NULL,75038
+NULL,Potassium-40,NULL,82068
+NULL,Praseodymium,NULL,NULL
+NULL,Praseodymium,NULL,01238
+NULL,Praseodymium,NULL,50582
+NULL,Prazepam,NULL,NULL
+NULL,Precipitation,NULL,00045
+NULL,Precipitation,NULL,46529
+NULL,Prednisone,NULL,NULL
+NULL,"Pregna-1,4-diene-3,20-dione, 11,17,21-trihydroxy-6-methyl-, (6.alpha.,11.beta.)-",NULL,NULL
+NULL,Progesterone,NULL,NULL
+NULL,Prometon,NULL,NULL
+NULL,Prometon,NULL,04037
+NULL,Prometon,NULL,39056
+NULL,Prometryn,NULL,NULL
+NULL,Prometryn,NULL,04036
+NULL,Prometryn,NULL,39057
+NULL,Pronamide,NULL,NULL
+NULL,Pronamide,NULL,82676
+NULL,Propachlor,NULL,NULL
+NULL,Propachlor,NULL,04024
+NULL,Propachlor,NULL,30295
+NULL,Propachlor ESA,NULL,NULL
+NULL,Propachlor OA,NULL,NULL
+NULL,Propane,NULL,NULL
+NULL,Propanenitrile,NULL,NULL
+NULL,Propanil,NULL,NULL
+NULL,Propanil,NULL,82679
+NULL,Propargite,NULL,NULL
+NULL,Propargite,NULL,82685
+NULL,Propazine,NULL,NULL
+NULL,Propazine,NULL,39024
+NULL,Propham,NULL,39052
+NULL,Propham,NULL,49236
+NULL,Propiconazole,NULL,NULL
+NULL,Propiconazole,NULL,50471
+NULL,Propoxur,NULL,NULL
+NULL,Propoxur,NULL,30296
+NULL,Propoxur,NULL,38538
+NULL,Propoxyphene,NULL,NULL
+NULL,Propranol,NULL,NULL
+NULL,Propylene glycol allyl ether,NULL,NULL
+NULL,Protriptyline,NULL,NULL
+NULL,p-Xylene,NULL,NULL
+NULL,Pyrene,NULL,NULL
+NULL,Pyrene,NULL,34469
+NULL,Pyrene,NULL,34470
+NULL,Pyrene,NULL,34472
+NULL,Pyrene,NULL,49387
+NULL,Pyridine,NULL,NULL
+NULL,Quinoline,NULL,49392
+NULL,Radium-224,NULL,50833
+NULL,Radium-224,NULL,50834
+NULL,Radium-226,NULL,NULL
+NULL,Radium-226,NULL,09501
+NULL,Radium-226,NULL,09503
+NULL,Radium-226,NULL,09511
+NULL,Radium-226,NULL,75943
+NULL,Radium-226,NULL,75944
+NULL,Radium-226,NULL,76001
+NULL,Radium-226/228,NULL,NULL
+NULL,Radium-228,NULL,NULL
+NULL,Radium-228,NULL,11501
+NULL,Radium-228,NULL,75937
+NULL,Radium-228,NULL,75948
+NULL,Radium-228,NULL,76000
+NULL,Radium-228,NULL,81366
+NULL,Radium-228,NULL,99326
+NULL,Radon-222,NULL,NULL
+NULL,Radon-222,NULL,76002
+NULL,Radon-222,NULL,82303
+NULL,Radon-222,NULL,82305
+NULL,Radon-222,NULL,99327
+NULL,Ranitidine,NULL,NULL
+NULL,RBP Stream Depth - Run,NULL,NULL
+NULL,RBP Stream Velocity,NULL,NULL
+NULL,"RBP2, Instream features, sampling reach area",NULL,NULL
+NULL,Reservoir storage,NULL,00054
+NULL,Reservoir volume,NULL,NULL
+NULL,Rhenium,NULL,NULL
+NULL,Rhenium,NULL,50583
+NULL,Rhodium,NULL,NULL
+NULL,Ronnel,NULL,NULL
+NULL,Rotenone,NULL,NULL
+NULL,Rubidium,NULL,NULL
+NULL,Rubidium,NULL,01135
+NULL,Rubidium,NULL,01137
+NULL,Ruthenium,NULL,NULL
+NULL,Salbutamol,NULL,NULL
+NULL,Salinity,NULL,NULL
+NULL,Salinity,NULL,00096
+NULL,Salinity,NULL,00480
+NULL,Samarium,NULL,NULL
+NULL,Samarium,NULL,82323
+NULL,Sample flow volume,NULL,NULL
+NULL,Scandium,NULL,NULL
+NULL,Scandium,NULL,01187
+NULL,Scandium,NULL,01189
+NULL,Scandium,NULL,34945
+NULL,Scandium,NULL,34947
+NULL,Scandium,NULL,82317
+NULL,Secbutabarbital,NULL,NULL
+NULL,sec-Butylbenzene,NULL,NULL
+NULL,sec-Butylbenzene,NULL,77350
+NULL,Seconal,NULL,NULL
+NULL,Sediment,NULL,NULL
+NULL,Sediment,NULL,04122
+NULL,Sediment,NULL,50279
+NULL,Sediment,NULL,69273
+NULL,Sediment,NULL,70326
+NULL,Sediment,NULL,70327
+NULL,Sediment,NULL,70328
+NULL,Sediment,NULL,70329
+NULL,Sediment,NULL,70330
+NULL,Sediment,NULL,70332
+NULL,Sediment,NULL,70333
+NULL,Sediment,NULL,70334
+NULL,Sediment,NULL,70335
+NULL,Sediment,NULL,70336
+NULL,Sediment,NULL,70337
+NULL,Sediment,NULL,70338
+NULL,Sediment,NULL,70339
+NULL,Sediment,NULL,70340
+NULL,Sediment,NULL,70341
+NULL,Sediment,NULL,70342
+NULL,Sediment,NULL,70343
+NULL,Sediment,NULL,70344
+NULL,Sediment,NULL,70345
+NULL,Sediment,NULL,70346
+NULL,Sediment,NULL,70347
+NULL,Sediment,NULL,80156
+NULL,Sediment,NULL,80157
+NULL,Sediment,NULL,80158
+NULL,Sediment,NULL,80159
+NULL,Sediment,NULL,80160
+NULL,Sediment,NULL,80161
+NULL,Sediment,NULL,80162
+NULL,Sediment,NULL,80163
+NULL,Sediment,NULL,80164
+NULL,Sediment,NULL,80165
+NULL,Sediment,NULL,80166
+NULL,Sediment,NULL,80167
+NULL,Sediment,NULL,80168
+NULL,Sediment,NULL,80169
+NULL,Sediment,NULL,80170
+NULL,Sediment,NULL,80171
+NULL,Sediment,NULL,80172
+NULL,Sediment,NULL,80173
+NULL,Sediment,NULL,80174
+NULL,Sediment,NULL,80175
+NULL,Sediment,NULL,80180
+NULL,Sediment,NULL,80181
+NULL,Sediment,NULL,80182
+NULL,Sediment,NULL,80183
+NULL,Sediment,NULL,80184
+NULL,Sediment,NULL,80185
+NULL,Sediment,NULL,80186
+NULL,Sediment,NULL,80203
+NULL,Sediment,NULL,80204
+NULL,Sediment,NULL,80205
+NULL,Sediment,NULL,80206
+NULL,Sediment,NULL,80207
+NULL,Sediment,NULL,80208
+NULL,Sediment,NULL,80209
+NULL,Sediment,NULL,80210
+NULL,Sediment,NULL,80220
+NULL,Sediment,NULL,80222
+NULL,Sediment,NULL,80223
+NULL,Sediment,NULL,80225
+NULL,Sediment,NULL,80226
+NULL,Sediment,NULL,80227
+NULL,Sediment,NULL,80228
+NULL,Sediment,NULL,80229
+NULL,Sediment,NULL,80230
+NULL,Sediment,NULL,80231
+NULL,Sediment,NULL,80232
+NULL,Sediment,NULL,80233
+NULL,Sediment,NULL,80234
+NULL,Sediment,NULL,80235
+NULL,Sediment,NULL,80236
+NULL,Sediment,NULL,80239
+NULL,Selenium,NULL,NULL
+NULL,Selenium,NULL,01145
+NULL,Selenium,NULL,01146
+NULL,Selenium,NULL,01147
+NULL,Selenium,NULL,01148
+NULL,Selenium,NULL,29847
+NULL,Selenium,NULL,29848
+NULL,Selenium,NULL,34950
+NULL,Selenium,NULL,34952
+NULL,Selenium-75,NULL,07100
+NULL,Sertraline,NULL,NULL
+NULL,Seston,NULL,71100
+NULL,Seston,NULL,71101
+NULL,S-Ethyl dipropylthiocarbamate,NULL,NULL
+NULL,S-Ethyl dipropylthiocarbamate,NULL,82668
+NULL,Settleable solids,NULL,NULL
+NULL,Siduron,NULL,38548
+NULL,Sildenafil,NULL,NULL
+NULL,Silica,NULL,NULL
+NULL,Silica,NULL,00955
+NULL,Silica,NULL,00956
+NULL,Silicon,NULL,NULL
+NULL,silicon,NULL,01140
+NULL,silicon,NULL,01142
+NULL,Silicon as SiO2,NULL,NULL
+NULL,Silver,NULL,NULL
+NULL,Silver,NULL,01075
+NULL,Silver,NULL,01076
+NULL,Silver,NULL,01077
+NULL,Silver,NULL,01078
+NULL,Silver,NULL,04129
+NULL,Silver,NULL,29850
+NULL,Silver,NULL,34955
+NULL,Silver,NULL,34957
+NULL,Silvex,NULL,NULL
+NULL,Silvex,NULL,39760
+NULL,Silvex,NULL,39761
+NULL,Silvex,NULL,39762
+NULL,Silvex,NULL,39763
+NULL,Simazine,NULL,NULL
+NULL,Simazine,NULL,04035
+NULL,Simazine,NULL,39025
+NULL,Simazine,NULL,39046
+NULL,Simazine,NULL,39055
+NULL,Simetone,NULL,82188
+NULL,Simetryn,NULL,39054
+NULL,Simvastatin,NULL,NULL
+NULL,Sodium,NULL,NULL
+NULL,Sodium,NULL,00923
+NULL,Sodium,NULL,00929
+NULL,Sodium,NULL,00930
+NULL,Sodium,NULL,00934
+NULL,Sodium,NULL,34960
+NULL,Sodium,NULL,34962
+NULL,sodium,NULL,91053
+NULL,Sodium adsorption ratio,NULL,00931
+NULL,Sodium adsorption ratio [(Na)/(sq root of 1/2 Ca + Mg)],NULL,NULL
+NULL,Sodium carbonate,NULL,71860
+NULL,Sodium plus potassium,NULL,NULL
+NULL,Sodium plus potassium,NULL,00933
+NULL,"Sodium, percent total cations",NULL,00932
+NULL,"Solar irradiation, local",NULL,00030
+NULL,Sotalol,NULL,NULL
+NULL,specific conductance,NULL,NULL
+NULL,Specific conductance,NULL,00094
+NULL,Specific conductance,NULL,00095
+NULL,Specific conductance,NULL,00402
+NULL,Specific conductance,NULL,90095
+NULL,Specific conductivity,NULL,NULL
+NULL,Specific gravity,NULL,NULL
+NULL,Specific gravity,NULL,72013
+NULL,"Stigmast-5-en-3-ol, (3.beta.)-",NULL,62068
+NULL,"Stigmast-5-en-3-ol, (3.beta.)-",NULL,62815
+NULL,"Stigmastan-3-ol, (3.beta.)-",NULL,61948
+NULL,"Stigmastan-3-ol, (3.beta.)-",NULL,62086
+NULL,"Stream flow, instantaneous",NULL,00061
+NULL,"Stream flow, mean. daily",NULL,00060
+NULL,Stream stage,NULL,NULL
+NULL,Stream velocity,NULL,00055
+NULL,Stream width measure,NULL,NULL
+NULL,Strontium,NULL,NULL
+NULL,Strontium,NULL,01080
+NULL,Strontium,NULL,01081
+NULL,Strontium,NULL,01082
+NULL,Strontium,NULL,01083
+NULL,Strontium,NULL,34965
+NULL,Strontium,NULL,34967
+NULL,Strontium,NULL,35040
+NULL,"Strontium-87/Strontium-86, ratio",NULL,NULL
+NULL,"Strontium-87/strontium-86, ratio",NULL,75978
+NULL,Strontium-89,NULL,15501
+NULL,Strontium-90,NULL,NULL
+NULL,Strontium-90,NULL,13501
+NULL,Strontium-90,NULL,13503
+NULL,Strontium-90,NULL,13505
+NULL,Strontium-90,NULL,76003
+NULL,Strontium-90 and/or yttrium-90,NULL,NULL
+NULL,Styrene,NULL,NULL
+NULL,Styrene,NULL,77128
+NULL,Sulfamethazine,NULL,NULL
+NULL,Sulfamethoxazole,NULL,NULL
+NULL,Sulfamethoxazole,NULL,62021
+NULL,Sulfamethoxazole-13C6,NULL,NULL
+NULL,Sulfate,NULL,NULL
+NULL,Sulfate,NULL,00945
+NULL,Sulfate,NULL,00946
+NULL,sulfate,NULL,91005
+NULL,Sulfate,"Inorganics, Major, Non-metals",NULL
+NULL,Sulfate as S,NULL,NULL
+NULL,Sulfate as SO4,NULL,NULL
+NULL,Sulfide,NULL,NULL
+NULL,Sulfide,NULL,00745
+NULL,Sulfide,NULL,00746
+NULL,Sulfide,NULL,99118
+NULL,Sulfide,NULL,99119
+NULL,Sulfometuron methyl,NULL,NULL
+NULL,Sulfometuron methyl,NULL,50337
+NULL,Sulfotep,NULL,NULL
+NULL,Sulfur,NULL,NULL
+NULL,Sulfur,NULL,30308
+NULL,Sulfur,NULL,34970
+NULL,sulfur,NULL,63719
+NULL,Sulfur dioxide,NULL,NULL
+NULL,Sulfur hexafluoride,NULL,63149
+NULL,Sulfur-34/Sulfur-32 ratio,NULL,49902
+NULL,Sulfur-34/Sulfur-32 ratio,NULL,49932
+NULL,Sulfur-34/Sulfur-32 ratio,NULL,82086
+NULL,"Sulfur-34/sulfur-32, ratio",NULL,NULL
+NULL,Sum of anions,NULL,NULL
+NULL,Sum of cations,NULL,NULL
+NULL,Sumatriptan,NULL,NULL
+NULL,Surface area,NULL,NULL
+NULL,Surfactants -- CWA 304B,NULL,38260
+NULL,"Surfactants, anionic",NULL,NULL
+NULL,Suspended Sediment Concentration (SSC),NULL,NULL
+NULL,Suspended sediment concentration (SSC),NULL,80154
+NULL,Suspended sediment discharge,NULL,80155
+NULL,Tamoxifen,NULL,NULL
+NULL,Tantalum,NULL,NULL
+NULL,Tantalum,NULL,34975
+NULL,Tantalum,NULL,34977
+NULL,Tantalum,NULL,82321
+NULL,Tebuconazole,NULL,NULL
+NULL,Tebuthiuron,NULL,NULL
+NULL,Tebuthiuron,NULL,82670
+NULL,Tefluthrin,NULL,61606
+NULL,Tellurium,NULL,NULL
+NULL,Tellurium,NULL,50585
+NULL,Temazepam,NULL,NULL
+NULL,"Temperature, air",NULL,NULL
+NULL,"Temperature, air",NULL,00020
+NULL,"Temperature, air",NULL,00021
+NULL,"Temperature, sample",NULL,NULL
+NULL,"Temperature, water",NULL,NULL
+NULL,"Temperature, water",NULL,00010
+NULL,Terbacil,NULL,NULL
+NULL,Terbacil,NULL,04032
+NULL,Terbacil,NULL,30311
+NULL,Terbacil,NULL,82665
+NULL,Terbium,NULL,NULL
+NULL,Terbium,NULL,01218
+NULL,Terbium,NULL,50586
+NULL,Terbufos,NULL,NULL
+NULL,Terbufos,NULL,82088
+NULL,Terbufos,NULL,82675
+NULL,Terbuthylazine,NULL,NULL
+NULL,Terbuthylazine,NULL,04022
+NULL,tert-Amyl methyl ether,NULL,50005
+NULL,tert-Butanol,NULL,77035
+NULL,tert-Butylbenzene,NULL,NULL
+NULL,tert-Butylbenzene,NULL,77353
+NULL,Testosterone,NULL,NULL
+NULL,Tetrachlorobiphenyl,NULL,NULL
+NULL,Tetrachloroethylene,NULL,NULL
+NULL,Tetrachloroethylene,NULL,34475
+NULL,Tetrachloroethylene,NULL,34476
+NULL,Tetrahydrocannabinol,NULL,NULL
+NULL,Tetrahydrofuran,NULL,NULL
+NULL,Tetrahydrofuran,NULL,81607
+NULL,Thallium,NULL,NULL
+NULL,Thallium,NULL,01057
+NULL,Thallium,NULL,01059
+NULL,Thallium,NULL,04060
+NULL,Thallium,NULL,04064
+NULL,Thallium,NULL,49955
+NULL,Thallium-208,NULL,NULL
+NULL,Thebaine,NULL,NULL
+NULL,Thiabendazole,NULL,NULL
+NULL,Thiabendazole,NULL,62801
+NULL,Thiamethoxam,NULL,NULL
+NULL,Thiobencarb,NULL,NULL
+NULL,Thiobencarb,NULL,82681
+NULL,Thorium-228,NULL,61738
+NULL,Thorium-230,NULL,NULL
+NULL,Thorium-230,NULL,26503
+NULL,Thorium-230,NULL,75939
+NULL,Thorium-230,NULL,75952
+NULL,Thorium-230,NULL,75997
+NULL,Thorium-232,NULL,NULL
+NULL,Thorium-232,NULL,34980
+NULL,Thorium-232,NULL,34982
+NULL,Thorium-232,NULL,75936
+NULL,Thorium-232,NULL,75953
+NULL,Thorium-232,NULL,75976
+NULL,Thorium-232,NULL,75999
+NULL,Thorium-232,NULL,82313
+NULL,Thorium-232,NULL,82365
+NULL,Thorium-234,NULL,NULL
+NULL,Thulium,NULL,NULL
+NULL,Thulium,NULL,01245
+NULL,Thulium,NULL,50587
+NULL,Tin,NULL,NULL
+NULL,Tin,NULL,01100
+NULL,Tin,NULL,01102
+NULL,Tin,NULL,01103
+NULL,Tin,NULL,34985
+NULL,Tin,NULL,34987
+NULL,Titanium,NULL,NULL
+NULL,Titanium,NULL,01150
+NULL,Titanium,NULL,01152
+NULL,Titanium,NULL,01153
+NULL,Titanium,NULL,04134
+NULL,Titanium,NULL,30317
+NULL,Titanium,NULL,34992
+NULL,Titanium,NULL,49274
+NULL,Toluene,NULL,NULL
+NULL,Toluene,NULL,34010
+NULL,Total Carbon,NULL,00690
+NULL,Total Carbon,NULL,00693
+NULL,Total Carbon,NULL,00694
+NULL,Total Carbon,NULL,30244
+NULL,Total Carbon,NULL,49272
+NULL,Total Coliform,NULL,NULL
+NULL,Total coliforms,NULL,31501
+NULL,Total coliforms,NULL,31503
+NULL,Total coliforms,NULL,90900
+NULL,Total dissolved solids,NULL,NULL
+NULL,Total dissolved solids,NULL,00515
+NULL,Total dissolved solids,NULL,70300
+NULL,Total dissolved solids,NULL,70301
+NULL,Total dissolved solids,NULL,70302
+NULL,Total dissolved solids,NULL,70303
+NULL,Total fixed solids,NULL,NULL
+NULL,Total hardness -- SDWA NPDWR,NULL,00900
+NULL,Total Sample Volume,NULL,NULL
+NULL,Total solids,NULL,NULL
+NULL,Total solids,NULL,00500
+NULL,Total suspended solids,NULL,NULL
+NULL,Total suspended solids,NULL,00530
+NULL,Total suspended solids,NULL,70299
+NULL,Total volatile solids,NULL,NULL
+NULL,Total volatile solids,NULL,00505
+NULL,Toxaphene,NULL,NULL
+NULL,Toxaphene,NULL,39400
+NULL,Toxaphene,NULL,39401
+NULL,Toxaphene,NULL,39403
+NULL,Toxaphene,NULL,49351
+NULL,"trans-1,2-Dichloroethylene",NULL,NULL
+NULL,"trans-1,2-Dichloroethylene",NULL,34546
+NULL,"trans-1,3-Dichloropropene",NULL,NULL
+NULL,"trans-1,3-Dichloropropene",NULL,34699
+NULL,"trans-1,4-Dichloro-2-butene",NULL,NULL
+NULL,"trans-1,4-Dichloro-2-butene",NULL,73547
+NULL,trans-Chlordane,NULL,NULL
+NULL,trans-Chlordane,NULL,49321
+NULL,trans-Nonachlor,NULL,NULL
+NULL,trans-Nonachlor,NULL,49317
+NULL,Transpermethrin,NULL,49350
+NULL,"Trash, Debris, Floatables",NULL,01320
+NULL,Trazodone,NULL,NULL
+NULL,Triallate,NULL,NULL
+NULL,Triallate,NULL,82678
+NULL,Triamterene,NULL,NULL
+NULL,Triazolam,NULL,NULL
+NULL,Tribenuron-methyl,NULL,61159
+NULL,Tribromomethane,NULL,NULL
+NULL,Tribromomethane,NULL,32104
+NULL,Tribromomethane,NULL,34288
+NULL,Tribufos,NULL,39040
+NULL,Tribufos,NULL,61610
+NULL,Tributyl phosphate,NULL,NULL
+NULL,Tributyl phosphate,NULL,62089
+NULL,Tributyl phosphate,NULL,62832
+NULL,Trichloroacetic acid,NULL,NULL
+NULL,Trichlorobiphenyl,NULL,NULL
+NULL,Trichloroethylene,NULL,NULL
+NULL,Trichloroethylene,NULL,39180
+NULL,Trichlorotrifluoroethane,NULL,NULL
+NULL,Triclocarban,NULL,NULL
+NULL,Triclopyr,NULL,NULL
+NULL,Triclopyr,NULL,49235
+NULL,Triclosan,NULL,61708
+NULL,Triclosan,NULL,62090
+NULL,"Triclosan,C13H10Cl2O- derivative",NULL,NULL
+NULL,Triethyl citrate,NULL,NULL
+NULL,Triethyl citrate,NULL,62091
+NULL,Triethyl citrate,NULL,62833
+NULL,Trifluralin,NULL,NULL
+NULL,Trifluralin,NULL,39030
+NULL,Trifluralin,NULL,82661
+NULL,Trihalomethanes,NULL,NULL
+NULL,"Trihalomethanes (four), total, from SDWA NPDWR",NULL,90851
+NULL,"Trihalomethanes (four), total, from SDWA NPDWR",NULL,90867
+NULL,Trimethoprim,NULL,NULL
+NULL,Trimipramine maleate,NULL,NULL
+NULL,Triphenyl phosphate,NULL,NULL
+NULL,Triphenyl phosphate,NULL,62092
+NULL,Triphenyl phosphate,NULL,62834
+NULL,"Tris(1,3-dichloro-2-propyl)phosphate",NULL,NULL
+NULL,Tris(2-butoxyethyl) phosphate,NULL,NULL
+NULL,Tris(2-butoxyethyl) phosphate,NULL,62093
+NULL,Tris(2-butoxyethyl) phosphate,NULL,62830
+NULL,Tris(2-chloroethyl) phosphate,NULL,NULL
+NULL,Tris(2-chloroethyl) phosphate,NULL,62087
+NULL,Tris(2-chloroethyl) phosphate,NULL,62831
+NULL,Tritium,NULL,NULL
+NULL,Tritium,NULL,07000
+NULL,Tritium,NULL,07005
+NULL,Tritium,NULL,07012
+NULL,Tritium,NULL,07013
+NULL,Tritium,NULL,07017
+NULL,Tritium,NULL,07019
+NULL,Tritium,NULL,75985
+NULL,True color,NULL,NULL
+NULL,Tungsten,NULL,NULL
+NULL,Tungsten,NULL,01154
+NULL,Tungsten,NULL,01155
+NULL,Turbidity,NULL,NULL
+NULL,Turbidity,NULL,00070
+NULL,Turbidity,NULL,00076
+NULL,Turbidity,NULL,61028
+NULL,Turbidity,NULL,63675
+NULL,Turbidity,NULL,63680
+NULL,Turbidity,NULL,82079
+NULL,Turbidity,NULL,99872
+NULL,Turbidity severity,NULL,01350
+NULL,"Turbidity, hellige",NULL,00075
+NULL,Tylosin,NULL,NULL
+NULL,Unknown,NULL,NULL
+NULL,Uranium,NULL,NULL
+NULL,Uranium 238/234 ratio,NULL,82087
+NULL,Uranium-234,NULL,NULL
+NULL,Uranium-234,NULL,22610
+NULL,Uranium-234,NULL,75941
+NULL,Uranium-234,NULL,75942
+NULL,Uranium-234,NULL,75992
+NULL,Uranium-234 and/or uranium-235 and/or uranium-238,NULL,22703
+NULL,Uranium-234 and/or uranium-235 and/or uranium-238,NULL,22705
+NULL,Uranium-234 and/or uranium-235 and/or uranium-238,NULL,22707
+NULL,Uranium-234 and/or uranium-235 and/or uranium-238,NULL,28011
+NULL,Uranium-234 and/or uranium-235 and/or uranium-238,NULL,35000
+NULL,Uranium-234 and/or uranium-235 and/or uranium-238,NULL,35002
+NULL,Uranium-234 and/or uranium-235 and/or uranium-238,NULL,35046
+NULL,Uranium-234 and/or uranium-235 and/or uranium-238,NULL,63032
+NULL,Uranium-234 and/or uranium-235 and/or uranium-238,NULL,75990
+NULL,Uranium-234 and/or uranium-235 and/or uranium-238,NULL,75993
+NULL,Uranium-234 and/or uranium-235 and/or uranium-238,NULL,80010
+NULL,Uranium-234 and/or uranium-235 and/or uranium-238,NULL,80020
+NULL,Uranium-234/235/238,NULL,NULL
+NULL,Uranium-235,NULL,NULL
+NULL,Uranium-235,NULL,22620
+NULL,Uranium-235,NULL,75947
+NULL,Uranium-235,NULL,75975
+NULL,Uranium-235,NULL,75994
+NULL,Uranium-236,NULL,NULL
+NULL,Uranium-238,NULL,NULL
+NULL,Uranium-238,NULL,04113
+NULL,Uranium-238,NULL,22603
+NULL,Uranium-238,NULL,75940
+NULL,Uranium-238,NULL,75991
+NULL,USGS,NULL,NULL
+NULL,UV 254 -- SDWA NPDWR,NULL,50624
+NULL,UV 254 -- SDWA NPDWR,NULL,63162
+NULL,"UV Absorption, relative conc. of organic constituents",NULL,NULL
+NULL,Vahlkampfia,NULL,NULL
+NULL,Vanadium,NULL,NULL
+NULL,Vanadium,NULL,01085
+NULL,Vanadium,NULL,01087
+NULL,Vanadium,NULL,01088
+NULL,Vanadium,NULL,29853
+NULL,Vanadium,NULL,35005
+NULL,Vanadium,NULL,35007
+NULL,Velocity - stream,NULL,81904
+NULL,Velocity-discharge,NULL,NULL
+NULL,Venlafaxine hydrochloride,NULL,NULL
+NULL,Verapamil,NULL,NULL
+NULL,Vernolate,NULL,30324
+NULL,Vinyl acetate,NULL,NULL
+NULL,Vinyl acetate,NULL,77057
+NULL,Vinyl bromide,NULL,50002
+NULL,Vinyl chloride,NULL,NULL
+NULL,Vinyl chloride,NULL,39175
+NULL,Volatile dissolved solids,NULL,00520
+NULL,Volatile Suspended Solids,NULL,00535
+NULL,Volume Storage,NULL,NULL
+NULL,Warfarin,NULL,NULL
+NULL,Warfarin,NULL,62024
+NULL,Water,NULL,NULL
+NULL,Water content of snow,NULL,81026
+NULL,"Water level in well, depth from a reference point",NULL,NULL
+NULL,"Water level in well, depth from a reference point",NULL,61055
+NULL,"Water transparency, Secchi disc",NULL,00077
+NULL,"Water transparency, Secchi disc",NULL,00078
+NULL,"Water transparency, Secchi disc",NULL,49701
+NULL,Wave height,NULL,NULL
+NULL,Weather comments (text),NULL,NULL
+NULL,Width,NULL,NULL
+NULL,Wind direction,NULL,00036
+NULL,"Wind direction (direction from, expressed 0-360 deg)",NULL,NULL
+NULL,Wind velocity,NULL,NULL
+NULL,Withdrawal rate,NULL,72050
+NULL,Xenon,NULL,85567
+NULL,Xylene,NULL,NULL
+NULL,Xylene,NULL,81551
+NULL,Xylenes mix of m + o + p,NULL,NULL
+NULL,Ytterbium,NULL,NULL
+NULL,Ytterbium,NULL,01194
+NULL,Ytterbium,NULL,01196
+NULL,Ytterbium,NULL,35015
+NULL,Ytterbium,NULL,35017
+NULL,Ytterbium,NULL,82311
+NULL,Yttrium,NULL,NULL
+NULL,Yttrium,NULL,01201
+NULL,Yttrium,NULL,01203
+NULL,Yttrium,NULL,35010
+NULL,Yttrium,NULL,35012
+NULL,Zinc,NULL,NULL
+NULL,Zinc,NULL,01090
+NULL,Zinc,NULL,01091
+NULL,Zinc,NULL,01092
+NULL,Zinc,NULL,01093
+NULL,Zinc,NULL,04131
+NULL,Zinc,NULL,29855
+NULL,Zinc,NULL,35020
+NULL,Zinc,NULL,35022
+NULL,Zinc-65,NULL,NULL
+NULL,Zirconium,NULL,NULL
+NULL,Zirconium,NULL,01160
+NULL,Zirconium,NULL,01162
+NULL,Zooplankton,NULL,NULL
+10028-17-8,tritium,NULL,NULL
+100-41-4,ethylbenzene,"organics, other",NULL
+100-42-5,styrene,"organics, other",NULL
+10043-92-2,radon,NULL,NULL
+10061-01-5,"cis-1,3-dichloropropene","organics, pesticide",NULL
+10061-02-6,"trans-1,3-dichloropropene","organics, pesticide",NULL
+10098-97-2,38-strontium-90,NULL,NULL
+1024-57-3,heptachlor epoxide,"organics, pesticide",NULL
+103-23-1,di(2-ethylhexyl) adipate,"organics, other",NULL
+103-65-1,n-propylbenzene,"organics, other",NULL
+104-51-8,n-butylbenzene,"organics, other",NULL
+106-42-3,p-xylene,"organics, other",NULL
+106-43-4,p-chlorotoluene,NULL,NULL
+106-46-7,p-dichlorobenzene,"organics, pesticide",NULL
+107-06-2,"1,2-dichloroethane","organics, pesticide",NULL
+108-38-3,m-xylene,"organics, other",NULL
+108-67-8,"1,3,5-trimethylbenzene","organics, other",NULL
+108-86-1,bromobenzene,"organics, other",NULL
+108-88-3,toluene,"organics, other",NULL
+108-90-7,chlorobenzene,"organics, other",NULL
+11096-82-5,aroclor 1260,NULL,NULL
+11097-69-1,aroclor 1254,NULL,NULL
+11104-28-2,aroclor 1221,NULL,NULL
+11141-16-5,aroclor 1232,NULL,NULL
+116-06-3,aldicarb,"organics, pesticide",NULL
+117-81-7,bis(2-ethylhexyl) phthalate,"organics, other",NULL
+117-81-7,di(2-ethylhexyl) phthalate,"organics, other",NULL
+118-74-1,hexachlorobenzene,"organics, pesticide",NULL
+120-82-1,"1,2,4-trichlorobenzene","organics, other",NULL
+122-34-9,simazine,"organics, pesticide",NULL
+124-38-9,carbon dioxide,"inorganics, major, non-metals",NULL
+124-48-1,dibromochloromethane,"organics, other",NULL
+12587-46-1,gross alpha particle activity,radiochemical,NULL
+12587-47-2,gross beta particle activity,radiochemical,NULL
+12672-29-6,aroclor 1248,NULL,NULL
+12674-11-2,aroclor 1016,NULL,NULL
+127-18-4,tetrachloroethylene,"organics, other",NULL
+1330-20-7,"xylenes, total","organics, other",NULL
+1332-21-4,asbestos,"inorganics, minor, non-metals",NULL
+1336-36-3,total polychlorinated biphenyls (pcb),"organics, pcbs",NULL
+135-98-8,sec-butylbenzene,"organics, other",NULL
+13982-63-3,radium-226,radiochemical,NULL
+142-28-9,"1,3-dichloropropane",NULL,NULL
+14265-44-2,orthophosphate,nutrient,NULL
+14265-44-2,"phosphate, total",nutrient,NULL
+14280-30-9,hydroxide as calcium carbonate,"inorganics, major, non-metals",NULL
+145-73-3,endothall,"organics, pesticide",NULL
+14797-55-8,nitrate,nutrient,NULL
+14797-65-0,nitrite,nutrient,NULL
+14808-79-8,sulfate,"inorganics, major, non-metals",NULL
+15117-96-1,uranium-235,NULL,NULL
+15262-20-1,radium-228,radiochemical,NULL
+1563-66-2,carbofuran,"organics, pesticide",NULL
+156-59-2,"cis-1,2-dichloroethylene","organics, other",NULL
+156-60-5,"trans-1,2-dichloroethylene","organics, other",NULL
+15972-60-8,lasso,"organics, pesticide",NULL
+1634-04-4,methyl tert-butyl ether,"organics, other",NULL
+1646-87-3,aldicarb sulfoxide,"organics, pesticide",NULL
+1646-88-4,aldicarb sulfone,"organics, pesticide",NULL
+16655-82-6,3-hydroxycarbofuran,"organics, pesticide",NULL
+16752-77-5,methomyl,"organics, pesticide",NULL
+16887-00-6,chloride,"inorganics, major, non-metals",NULL
+16984-48-8,fluoride,"inorganics, major, non-metals",NULL
+1746-01-6,"2,3,7,8-tcdd","organics, other",NULL
+18540-29-9,"chromium, hex","inorganics, minor, metals",NULL
+1912-24-9,atrazine,"organics, pesticide",NULL
+1918-00-9,dicamba,"organics, pesticide",NULL
+1918-02-1,picloram,NULL,NULL
+1918-16-7,propachlor,"organics, pesticide",NULL
+21087-64-9,metribuzin,"organics, pesticide",NULL
+23135-22-0,oxamyl,"organics, pesticide",NULL
+23184-66-9,butachlor,"organics, pesticide",NULL
+24959-67-9,bromide,"inorganics, major, non-metals",NULL
+25321-22-6,"dichlorobenzenes, total",NULL,NULL
+26523-64-8,trichlorotrifluoroethane,NULL,NULL
+2764-72-9,diquat,NULL,NULL
+50-32-8,benzo(a)pyrene,"organics, other",NULL
+5103-71-9,alpha-chlordane,"organics, pesticide",NULL
+5103-74-2,gamma-chlordane,NULL,NULL
+51218-45-2,metolachlor,"organics, pesticide",NULL
+53469-21-9,aroclor 1242,NULL,NULL
+541-73-1,m-dichlorobenzene,"organics, other",NULL
+542-75-6,"1,3-dichloropropene","organics, pesticide",NULL
+56-23-5,carbon tetrachloride,"organics, other",NULL
+563-58-6,"1,1-dichloropropene",NULL,NULL
+57-12-5,cyanide,"inorganics, minor, non-metals",NULL
+57-74-9,chlordane,NULL,NULL
+58-89-9,bhc-gamma,"organics, pesticide",NULL
+594-20-7,"2,2-dichloropropane",NULL,NULL
+60-57-1,dieldrin,"organics, pesticide",NULL
+621-64-7,n-nitrosodi-n-propylamine,"organics, other",NULL
+630-20-6,"1,1,1,2-tetrachloroethane",NULL,NULL
+631-64-1,dibromoacetic acid,NULL,NULL
+63-25-2,carbaryl,"organics, pesticide",NULL
+67-66-3,chloroform,"organics, other",NULL
+68583-22-2,e. coli,NULL,NULL
+71-43-2,benzene,"organics, other",NULL
+71-52-3,bicarbonate as hco3,"inorganics, major, non-metals",NULL
+71-55-6,"1,1,1-trichloroethane","organics, other",NULL
+72-20-8,endrin,"organics, pesticide",NULL
+72-43-5,methoxychlor,"organics, pesticide",NULL
+7429-90-5,aluminum,"inorganics, minor, metals",NULL
+7439-89-6,iron,"inorganics, minor, metals",NULL
+7439-89-6,"iron, dissolved","inorganics, minor, metals",NULL
+7439-92-1,lead,"inorganics, minor, metals",NULL
+7439-95-4,magnesium,"inorganics, major, metals",NULL
+7439-96-5,manganese,"inorganics, minor, metals",NULL
+7439-97-6,mercury,"inorganics, minor, metals",NULL
+7439-98-7,"molybdenum, total","inorganics, minor, metals",NULL
+7440-02-0,nickel,"inorganics, minor, metals",NULL
+7440-09-7,potassium,"inorganics, major, metals",NULL
+7440-22-4,silver,"inorganics, minor, metals",NULL
+7440-23-5,sodium,"inorganics, major, metals",NULL
+7440-28-0,"thallium, total","inorganics, minor, metals",NULL
+7440-36-0,"antimony, total","inorganics, minor, non-metals",NULL
+7440-38-2,arsenic,"inorganics, minor, non-metals",NULL
+7440-39-3,barium,"inorganics, minor, metals",NULL
+7440-41-7,"beryllium, total","inorganics, minor, metals",NULL
+7440-42-8,"boron, total","inorganics, minor, non-metals",NULL
+7440-43-9,cadmium,"inorganics, minor, metals",NULL
+7440-44-0,"carbon, total","inorganics, major, non-metals",NULL
+7440-47-3,chromium,"inorganics, minor, metals",NULL
+7440-50-8,"copper, free","inorganics, minor, metals",NULL
+7440-61-1,combined uranium,radiochemical,NULL
+7440-62-2,"vanadium, total","inorganics, minor, metals",NULL
+7440-66-6,zinc,"inorganics, minor, metals",NULL
+7440-70-2,calcium,"inorganics, major, metals",NULL
+74-83-9,bromomethane,"organics, pesticide",NULL
+74-87-3,chloromethane,"organics, other",NULL
+74-95-3,dibromomethane,NULL,NULL
+74-97-5,bromochloromethane,NULL,NULL
+75-00-3,chloroethane,"organics, other",NULL
+75-01-4,vinyl chloride,"organics, other",NULL
+75-09-2,dichloromethane,"organics, other",NULL
+75-25-2,bromoform,"organics, other",NULL
+75-27-4,bromodichloromethane,"organics, other",NULL
+75-34-3,"1,1-dichloroethane","organics, other",NULL
+75-35-4,"1,1-dichloroethylene","organics, other",NULL
+75-69-4,trichlorofluoromethane,"organics, other",NULL
+75-71-8,dichlorodifluoromethane,"organics, other",NULL
+75-99-0,dalapon,"organics, pesticide",NULL
+76-03-9,trichloroacetic acid,"organics, other",NULL
+7631-86-9,silica,"inorganics, major, non-metals",NULL
+76-44-8,heptachlor,"organics, pesticide",NULL
+7727-37-9,nitrogen-ammonia as (n),nutrient,NULL
+7727-37-9,total kjeldahl nitrogen (in water mg/l),nutrient,NULL
+77-47-4,hexachlorocyclopentadiene,"organics, other",NULL
+7782-49-2,selenium,"inorganics, minor, non-metals",NULL
+78-87-5,"1,2-dichloropropane","organics, pesticide",NULL
+79-00-5,"1,1,2-trichloroethane","organics, other",NULL
+79-01-6,trichloroethylene,"organics, other",NULL
+79-08-3,monobromoacetic acid,NULL,NULL
+79-11-8,monochloroacetic acid,NULL,NULL
+79-34-5,"1,1,2,2-tetrachloroethane","organics, other",NULL
+79-43-6,dichloroacetic acid,"organics, other",NULL
+8001-35-2,toxaphene,"organics, pesticide",NULL
+87-61-6,"1,2,3-trichlorobenzene",NULL,NULL
+87-68-3,hexachlorobutadiene,"organics, other",NULL
+88-85-7,dinoseb,"organics, pesticide",NULL
+91-20-3,naphthalene,"organics, other",NULL
+93-72-1,"2,4,5-tp","organics, pesticide",NULL
+94-75-7,"2,4-d","organics, pesticide",NULL
+95-49-8,o-chlorotoluene,"organics, other",NULL
+95-50-1,o-dichlorobenzene,"organics, other",NULL
+95-63-6,"1,2,4-trimethylbenzene","organics, other",NULL
+96-18-4,"1,2,3-trichloropropane","organics, pesticide",NULL
+98-06-6,tert-butylbenzene,"organics, other",NULL
+98-82-8,isopropylbenzene,"organics, other",NULL
+99-87-6,p-isopropyltoluene,NULL,NULL
+None,"alkalinity, bicarbonate","inorganics, major, non-metals",NULL
+None,"alkalinity, caco3 stability","inorganics, major, non-metals",NULL
+None,"alkalinity, carbonate","inorganics, major, non-metals",NULL
+None,"alkalinity, total","inorganics, major, non-metals",NULL
+None,calcium,"inorganics, major, metals",NULL
+None,calcium hardness,NULL,NULL
+None,"carbon, total","inorganics, major, non-metals",NULL
+None,coliform (tcr),NULL,NULL
+None,color,NULL,NULL
+None,combined radium (-226 & -228),NULL,NULL
+None,conductivity @ 25 c umhos/cm,NULL,NULL
+None,foaming agents (surfactants),NULL,NULL
+None,"gross alpha, excl. radon & u",NULL,NULL
+None,"hardness, carbonate",NULL,NULL
+None,"hardness, total (as caco3)",NULL,NULL
+None,langelier index (ph(s)),NULL,NULL
+None,"manganese, dissolved","inorganics, minor, metals",NULL
+None,mbas - foaming agents (surfactants),NULL,NULL
+None,nitrate-nitrite,nutrient,NULL
+None,odor,NULL,NULL
+None,pentachlorophenol,NULL,NULL
+None,ph,NULL,NULL
+None,tds,NULL,NULL
+None,temperature (centigrade),NULL,NULL
+None,total haloacetic acids (haa5),NULL,NULL
+None,tthm,NULL,NULL
+None,turbidity,NULL,NULL
+None,uv absorbance @254 nm,NULL,NULL
